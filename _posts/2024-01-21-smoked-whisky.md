@@ -58,4 +58,4 @@ Makinohara, Shizuoka, Japan
 
 ![](https://t.dedunu.info/images/tea/2024-01-21-smoked-whisky-4.jpg)
 
-![](https://t.dedunu.info/images/tea/2024-01-21-smoked-whisky-5.jpg)
+![](https://t.dedunu.info/images/tea/2024-01-21-smoked-whisky-5.jpeg)
