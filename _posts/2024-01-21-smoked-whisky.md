@@ -16,6 +16,7 @@ recipe:
     2. Second steep is even better.
     3. I love the aroma.
     4. 5g => 1.70 EUR at theevansander.nl
+    5. Reminds me of Islay Whisky.
 ---
 
 ## Original Product Link
