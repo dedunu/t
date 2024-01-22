@@ -1,5 +1,6 @@
-- name: Home
-  link: /
 - name: Tea
   link: /tea/
-
+- name: Tech
+  link: https://tech.dedunu.info
+- name: Travel
+  link: https://travel.dedunu.info
