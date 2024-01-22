@@ -3,7 +3,7 @@ date: 2024-01-10
 title: Yunnan Dianhong Golden Tip
 categories:
   - Black
-featured_image: https://t.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-1.PNG
+featured_image: https://tea.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-1.PNG
 recipe:
   servings: 4-5 g
   prep: 15 seconds
@@ -28,8 +28,8 @@ Yunnan red tea, also known as Dianhong, is a ‘one bud, one leaf’ tea from Yu
 
 After a good brewing, the tea takes on a stunning red colour and the tea soup shines bright like a diamond. It gives off a sweet floral aroma and tastes like brown sugar, honey, sweet potato and caramel. It is a bit smoky, but still smooth and mild enough to be enjoyed a couple of times a day. This Yunnan red tea can be brewed many times without losing its rich taste.
 
-![](https://t.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-2.PNG)
+![](https://tea.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-2.PNG)
 
-![](https://t.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-3.PNG)
+![](https://tea.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-3.PNG)
 
-![](https://t.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-4.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-4.jpg)

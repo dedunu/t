@@ -3,7 +3,7 @@ date: 2023-09-30
 title: Twinings Earl Grey
 categories:
   - Black
-featured_image: https://t.dedunu.info/images/placeholder.jpg
+featured_image: https://tea.dedunu.info/images/placeholder.jpg
 recipe:
   servings: 2 g
   prep: 5 seconds

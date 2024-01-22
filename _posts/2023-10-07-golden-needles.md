@@ -3,7 +3,7 @@ date: 2023-10-07
 title: Golden Needles
 categories:
   - Black
-featured_image: https://t.dedunu.info/images/placeholder.jpg
+featured_image: https://tea.dedunu.info/images/placeholder.jpg
 recipe:
   servings: 3 g
   prep: 1 mins

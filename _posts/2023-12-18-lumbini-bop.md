@@ -3,7 +3,7 @@ date: 2023-12-18
 title: Lumbini Pure Black BOP
 categories:
   - Black
-featured_image: https://t.dedunu.info/images/tea/2023-12-18-lumbini-bop-1.PNG
+featured_image: https://tea.dedunu.info/images/tea/2023-12-18-lumbini-bop-1.PNG
 recipe:
   servings: 2 g
   prep: 20 seconds
@@ -31,6 +31,6 @@ Lumbini Pure Black BOP comes from the Lumbini Tea Valley, the highest tea planta
 
 Kolawenigama, Deniyaya, Sri Lanka
 
-![](https://t.dedunu.info/images/tea/2023-12-18-lumbini-bop-2.PNG)
+![](https://tea.dedunu.info/images/tea/2023-12-18-lumbini-bop-2.PNG)
 
-![](https://t.dedunu.info/images/tea/2023-12-18-lumbini-bop-3.PNG)
+![](https://tea.dedunu.info/images/tea/2023-12-18-lumbini-bop-3.PNG)

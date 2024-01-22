@@ -3,7 +3,7 @@ date: 2024-01-12
 title: Assam Malt
 categories:
   - Black
-featured_image: https://t.dedunu.info/images/tea/2024-01-12-assam-malt-1.jpeg
+featured_image: https://tea.dedunu.info/images/tea/2024-01-12-assam-malt-1.jpeg
 recipe:
   servings: 3 g
   prep: 15 seconds

@@ -3,7 +3,7 @@ date: 2024-01-19
 title: Basilur Ceylon Silver Tips 
 categories:
   - White
-featured_image: https://t.dedunu.info/images/tea/2024-01-19-ceylon-silver-tips-1.png
+featured_image: https://tea.dedunu.info/images/tea/2024-01-19-ceylon-silver-tips-1.png
 recipe:
   servings: 2.5 g
   prep: 2 – 3 Minutes

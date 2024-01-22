@@ -3,7 +3,7 @@ date: 2024-01-07
 title: Gongfu Gong Ting 2019
 categories:
   - Pu-erh
-featured_image: https://t.dedunu.info/images/tea/2024-01-07-gongfu-gong-ting-1.png
+featured_image: https://tea.dedunu.info/images/tea/2024-01-07-gongfu-gong-ting-1.png
 recipe:
   servings: 6 g
   prep: 1 seconds
@@ -31,8 +31,8 @@ Steep the tea in a hot water (95°C) in a gaiwan or a teapot made of porous clay
 
 Shu Puer "Gongfu Gongting" will charge you with vigour in the morning, maintain strength during the day, and in the evening it will help to exhale all unnecessary and relax.
 
-![](https://t.dedunu.info/images/tea/2024-01-07-gongfu-gong-ting-2.png)
+![](https://tea.dedunu.info/images/tea/2024-01-07-gongfu-gong-ting-2.png)
 
-![](https://t.dedunu.info/images/tea/2024-01-07-gongfu-gong-ting-3.png)
+![](https://tea.dedunu.info/images/tea/2024-01-07-gongfu-gong-ting-3.png)
 
-![](https://t.dedunu.info/images/tea/2024-01-07-gongfu-gong-ting-4.png)
+![](https://tea.dedunu.info/images/tea/2024-01-07-gongfu-gong-ting-4.png)

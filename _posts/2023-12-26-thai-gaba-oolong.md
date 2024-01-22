@@ -3,7 +3,7 @@ date: 2023-12-26
 title: Thai Gaba Oolong
 categories:
   - Oolong
-featured_image: https://t.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-1.PNG
+featured_image: https://tea.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-1.PNG
 recipe:
   servings: 6 g
   prep: 5 seconds
@@ -38,10 +38,10 @@ Steep the tea in a hot water (85-90°C) in a gaiwan or a teapot made of porous c
 
 Tai Gaba Oolong is an excellent selection for daily tea consumption.
 
-![](https://t.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-2.PNG)
+![](https://tea.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-2.PNG)
 
-![](https://t.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-3.PNG)
+![](https://tea.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-3.PNG)
 
-![](https://t.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-4.PNG)
+![](https://tea.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-4.PNG)
 
-![](https://t.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-5.PNG)
+![](https://tea.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-5.PNG)

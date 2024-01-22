@@ -3,7 +3,7 @@ date: 2024-01-12
 title: Sun-dried Pu-erh Buds - Ya Bao
 categories:
   - White
-featured_image: https://t.dedunu.info/images/tea/2023-11-12-sun-dried-pu-erh-buds-ya-bao-1.jpeg
+featured_image: https://tea.dedunu.info/images/tea/2023-11-12-sun-dried-pu-erh-buds-ya-bao-1.jpeg
 recipe:
   servings: 3 g
   prep: 2 Minutes

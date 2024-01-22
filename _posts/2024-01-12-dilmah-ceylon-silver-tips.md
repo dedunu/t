@@ -3,7 +3,7 @@ date: 2024-01-12
 title: Dilmah Ceylon Silver Tips 
 categories:
   - White
-featured_image: https://t.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-1.PNG
+featured_image: https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-1.PNG
 recipe:
   servings: 2.5 g
   prep: 2 – 3 Minutes
@@ -29,4 +29,4 @@ White tea is the delicate, tender bud of two leaves; the bud, which provides bes
 
 This rarity comes at a price and sadly because of this, most of the white teas offered around the world are adulterated; sometimes containing less than 2% of white tea. Dilmah white tea is real white tea offering consumers the subtle and very refined experience of this exclusive beverage.
 
-![silver tips](https://t.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-2.PNG)
+![silver tips](https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-2.PNG)

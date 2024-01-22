@@ -3,7 +3,7 @@ date: 2024-01-21
 title: Smoked Whiskey Black
 categories:
   - Black
-featured_image: https://t.dedunu.info/images/tea/2024-01-21-smoked-whisky-1.jpg
+featured_image: https://tea.dedunu.info/images/tea/2024-01-21-smoked-whisky-1.jpg
 recipe:
   servings: 1.7 g
   prep: 1 min
@@ -53,10 +53,10 @@ Makinohara, Shizuoka, Japan
 * Plantation: Kaneroku Matsumoto Tea Garden
 * Creator: Hiroki Matsumoto
 
-![](https://t.dedunu.info/images/tea/2024-01-21-smoked-whisky-2.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-21-smoked-whisky-2.jpg)
 
-![](https://t.dedunu.info/images/tea/2024-01-21-smoked-whisky-3.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-21-smoked-whisky-3.jpg)
 
-![](https://t.dedunu.info/images/tea/2024-01-21-smoked-whisky-4.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-21-smoked-whisky-4.jpg)
 
-![](https://t.dedunu.info/images/tea/2024-01-21-smoked-whisky-5.jpeg)
+![](https://tea.dedunu.info/images/tea/2024-01-21-smoked-whisky-5.jpeg)

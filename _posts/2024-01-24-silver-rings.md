@@ -3,7 +3,7 @@ date: 2024-01-21
 title: Ebony Spring Silver Rings
 categories:
   - White
-featured_image: https://t.dedunu.info/images/tea/2024-01-24-silver-rings-1.jpg
+featured_image: https://tea.dedunu.info/images/tea/2024-01-24-silver-rings-1.jpg
 recipe:
   servings: 1.7 g
   prep: 1 min
@@ -26,10 +26,10 @@ Ebony Springs is located about 8 kilometers from Nawalapitiya. The district rang
 
 Ebony Springs, Nawalapitiya, Nuwara Eliya, Sri Lanka
 
-![](https://t.dedunu.info/images/tea/2024-01-24-silver-rings-2.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-24-silver-rings-2.jpg)
 
-![](https://t.dedunu.info/images/tea/2024-01-24-silver-rings-3.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-24-silver-rings-3.jpg)
 
-![](https://t.dedunu.info/images/tea/2024-01-24-silver-rings-4.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-24-silver-rings-4.jpg)
 
-![](https://t.dedunu.info/images/tea/2024-01-24-silver-rings-5.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-24-silver-rings-5.jpg)

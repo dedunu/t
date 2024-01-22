@@ -3,7 +3,7 @@ date: 2023-11-12
 title: Golden Needles Dian Hong Yunnan
 categories:
   - Black
-featured_image: https://t.dedunu.info/images/tea/2023-11-12-golden-needles-dian-hong-yunnan-1.PNG
+featured_image: https://tea.dedunu.info/images/tea/2023-11-12-golden-needles-dian-hong-yunnan-1.PNG
 recipe:
   servings: 2 g
   prep: 1.5 mins
@@ -43,4 +43,4 @@ Steeping Time: 1,5min, 2min, 3min..
 
 Feng Qing, Lincang, Yunnan, China
 
-![](https://t.dedunu.info/images/tea/2023-11-12-golden-needles-dian-hong-yunnan-2.PNG)
+![](https://tea.dedunu.info/images/tea/2023-11-12-golden-needles-dian-hong-yunnan-2.PNG)

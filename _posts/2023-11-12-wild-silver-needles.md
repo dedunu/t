@@ -3,7 +3,7 @@ date: 2023-11-12
 title: Wild Silver Needles Vietnam
 categories:
   - White
-featured_image: https://t.dedunu.info/images/tea/2023-11-12-wild-silver-needles-1.jpeg
+featured_image: https://tea.dedunu.info/images/tea/2023-11-12-wild-silver-needles-1.jpeg
 recipe:
   servings: 2 g
   prep: 1.5 mins

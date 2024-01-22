@@ -3,7 +3,7 @@ date: 2024-01-10
 title: Mi Huan Gaba Oolong
 categories:
   - Oolong
-featured_image: https://t.dedunu.info/images/tea/2024-01-10-mi-huan-gaba-oolong-1.PNG
+featured_image: https://tea.dedunu.info/images/tea/2024-01-10-mi-huan-gaba-oolong-1.PNG
 recipe:
   servings: 5 g
   prep: 8-10 seconds
@@ -47,4 +47,4 @@ The taste is full-bodied and soft, sweetish, with delicate berry sourness, spicy
 
 Brew the tea with hot boiling water (95°C) in a porcelain gaiwan or a teapot of porous clay. The proportion is 5 g per 100 ml. The time of the first steeping is about 8-10 seconds. After that do short steeps (just for 1-2 seconds), increasing steeping time for each subsequent step, if necessary. You can repeat this method up to approximately 12 times.
 
-![](https://t.dedunu.info/images/tea/2024-01-10-mi-huan-gaba-oolong-2.PNG)
+![](https://tea.dedunu.info/images/tea/2024-01-10-mi-huan-gaba-oolong-2.PNG)

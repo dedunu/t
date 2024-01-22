@@ -3,7 +3,7 @@ date: 2024-01-08
 title: Da Shi Zhongguo Hong
 categories:
   - Black
-featured_image: https://t.dedunu.info/images/tea/2024-01-08-da-shi-zhongguo-hong-1.PNG
+featured_image: https://tea.dedunu.info/images/tea/2024-01-08-da-shi-zhongguo-hong-1.PNG
 recipe:
   servings: 4 g
   prep: 2 seconds
@@ -33,6 +33,6 @@ Brew tea with hot water (95°С) in a gaiwan or in a teapot of porous clay. The 
 
 "Chinese Red" is a great choice for both everyday and ceremonial tea drinking. Multifaceted and bright, quite soft and delicate, it is perfect for emotional reboot in the second half of the day, and for evening rest in low concentration.
 
-![](https://t.dedunu.info/images/tea/2024-01-08-da-shi-zhongguo-hong-2.PNG)
+![](https://tea.dedunu.info/images/tea/2024-01-08-da-shi-zhongguo-hong-2.PNG)
 
-![](https://t.dedunu.info/images/tea/2024-01-08-da-shi-zhongguo-hong-3.PNG)
+![](https://tea.dedunu.info/images/tea/2024-01-08-da-shi-zhongguo-hong-3.PNG)

@@ -3,7 +3,7 @@ date: 2024-01-04
 title: Sencha Fuji
 categories:
   - Green
-featured_image: https://t.dedunu.info/images/tea/2024-01-04-sencha-fuji-1.jpeg
+featured_image: https://tea.dedunu.info/images/tea/2024-01-04-sencha-fuji-1.jpeg
 recipe:
   servings: 2 g
   prep: 1 mins

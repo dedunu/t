@@ -3,7 +3,7 @@ date: 2024-01-09
 title: Lishiwei Milan xiang (Honey Orchid)
 categories:
   - Oolong
-featured_image: https://t.dedunu.info/images/tea/2024-01-09-lishiwei-milan-xiang-1.PNG
+featured_image: https://tea.dedunu.info/images/tea/2024-01-09-lishiwei-milan-xiang-1.PNG
 recipe:
   servings: 7 g
   prep: 5 seconds
@@ -36,4 +36,4 @@ Guangdong Oolong can be enjoyed through multiple infusions, with each steeping r
 
 Whether you are a seasoned tea connoisseur or a curious explorer of tea varieties, Guangdong Oolong, specifically Lishiwei Milan Xiang, offers a captivating and rewarding tea-drinking experience. Its enticing aroma, smooth texture, and delightful flavors combine to create a tea that is both comforting and intriguing, making it a true gem among oolong teas.
 
-![](https://t.dedunu.info/images/tea/2024-01-09-lishiwei-milan-xiang-2.PNG)
+![](https://tea.dedunu.info/images/tea/2024-01-09-lishiwei-milan-xiang-2.PNG)
