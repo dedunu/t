@@ -21,7 +21,7 @@ recipe:
 
 ## Original Product Link
 
-[https://www.theevansander.nl/webwinkel/zwarte-thee/smoked-whisky-black/](https://www.theevansander.nl/webwinkel/zwarte-thee/smoked-whisky-black/)
+<https://www.theevansander.nl/webwinkel/zwarte-thee/smoked-whisky-black/>
 
 ## Original Product Description
 
