@@ -21,8 +21,8 @@ author:
 
 timezone: Etc/UTC
 
-paginate: 10
-paginate_path: "/:num/"
+paginate: 1
+paginate_path: "page/:num/"
 permalink: pretty
 
 defaults:
