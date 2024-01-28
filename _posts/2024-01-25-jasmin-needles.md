@@ -3,7 +3,7 @@ date: 2024-01-25
 title: Jasmine Needle
 categories:
   - White
-featured_image: https://tea.dedunu.info/images/tea/2024-01-25-jasmin-needles-1.jpg
+featured_image: https://tea.dedunu.info/images/tea/2024-01-25-jasmin-needles-2.jpg
 recipe:
   servings: 2 g
   prep: 1 min
@@ -29,4 +29,4 @@ A beautiful white Silver Needle from Yunnan, scented with jasmine. The organic v
 
 Yunnan, China
 
-![](https://tea.dedunu.info/images/tea/2024-01-25-jasmin-needles-2.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-25-jasmin-needles-1.jpg)
