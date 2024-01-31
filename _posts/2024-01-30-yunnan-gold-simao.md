@@ -28,8 +28,8 @@ This Yunnan Gold comes from Ninger district of Simao, Yunnan province. The tea w
 
 Yunnan, China
 
-![](https://tea.dedunu.info/images/tea/2024-01-21-smoked-whisky-2.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-30-yunnan-gold-simao-2.jpg)
 
-![](https://tea.dedunu.info/images/tea/2024-01-21-smoked-whisky-3.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-30-yunnan-gold-simao-3.jpg)
 
-![](https://tea.dedunu.info/images/tea/2024-01-21-smoked-whisky-4.jpg)
+![](https://tea.dedunu.info/images/tea/2024-01-30-yunnan-gold-simao-4.jpg)
