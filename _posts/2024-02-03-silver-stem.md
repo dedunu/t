@@ -3,7 +3,7 @@ date: 2024-02-03
 title: Silver Stem Tea
 categories:
   - White
-featured_image: https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-1.jpg
+featured_image: https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-7.jpg
 recipe:
   servings: 2 g
   prep: 1 min
@@ -32,14 +32,14 @@ Ebony Springs is a small plantation in western Sri Lanka at an altitude of appro
 
 Sri Lanka
 
-![](https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-2.jpg)
-
-![](https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-3.jpg)
-
-![](https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-4.jpg)
+![](https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-6.jpg)
 
 ![](https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-5.jpg)
 
-![](https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-6.jpg)
+![](https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-4.jpg)
 
-![](https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-7.jpg)
+![](https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-3.jpg)
+
+![](https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-2.jpg)
+
+![](https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-1.jpg)
