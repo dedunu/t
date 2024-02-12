@@ -34,3 +34,5 @@ In addition to the beautiful CTC tea, there has also been a development in recen
 Malawi
 
 ![](https://tea.dedunu.info/images/tea/2024-02-09-zombie-pearls-2.jpg)
+
+![](https://tea.dedunu.info/images/tea/2024-02-09-zombie-pearls-3.jpg)
