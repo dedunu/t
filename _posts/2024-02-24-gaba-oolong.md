@@ -13,7 +13,7 @@ recipe:
     * Slighly Smokey
   directions_markdown: |-
     1. Drinkable
-    2. 
+    2. Might not order again.
 ---
 
 ## Original Description
