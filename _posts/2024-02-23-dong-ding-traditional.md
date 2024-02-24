@@ -22,7 +22,7 @@ Also known as “Hong Shui.” A very interesting tea. In the past, the tea we k
 
 A tea with a special smell and taste, not really explain but say a combination of roasting, sweetness, orange and fire.
 
-- Taiwan, Nantou County, China
+- Taiwan, Nantou County
 - Ching Xin cultivar
 - 600 meters of growth height
 - The Natural Farming
@@ -41,7 +41,7 @@ Nowadays Dong Ding is made in several places and the distinctiveness of Dong Din
 
 ### Origin 
 
-Taiwan, Nantou County, China
+Taiwan, Nantou County
 
 ![](https://tea.dedunu.info/images/tea/2024-02-23-dong-ding-traditional-2.jpg)
 
