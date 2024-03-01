@@ -36,3 +36,5 @@ Brew tea with hot water (95°С) in a gaiwan or in a teapot of porous clay. The 
 ![](https://tea.dedunu.info/images/tea/2024-01-08-da-shi-zhongguo-hong-2.PNG)
 
 ![](https://tea.dedunu.info/images/tea/2024-01-08-da-shi-zhongguo-hong-3.PNG)
+
+![](https://tea.dedunu.info/images/tea/2024-01-08-da-shi-zhongguo-hong-4.jpg)
