@@ -3,7 +3,7 @@ date: 2024-01-12
 title: Dilmah Ceylon Silver Tips 
 categories:
   - White
-featured_image: https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-1.PNG
+featured_image: https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-1.jpg
 recipe:
   servings: 2.5 g
   prep: 2 – 3 Minutes
