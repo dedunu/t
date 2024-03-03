@@ -3,7 +3,8 @@ date: 2024-01-13
 title: GABA Assam Hong Cha, Thailand (Winter 2022)
 categories:
   - Black
-featured_image: https://tea.dedunu.info/images/tea/2024-03-02-gaba-assam-hong-cha-1.jpgrecipe:
+featured_image: https://tea.dedunu.info/images/tea/2024-03-02-gaba-assam-hong-cha-1.jpg
+recipe:
   servings: 6 g
   prep: 5 seconds
   cook: 95°C
