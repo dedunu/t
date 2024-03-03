@@ -3,8 +3,7 @@ date: 2024-01-13
 title: GABA Assam Hong Cha, Thailand (Winter 2022)
 categories:
   - Black
-featured_image: https://tea.dedunu.info/images/tea/2024-01-13-gaba-assam-hong-cha-1.jpeg
-recipe:
+featured_image: https://tea.dedunu.info/images/tea/2024-03-02-gaba-assam-hong-cha-1.jpgrecipe:
   servings: 6 g
   prep: 5 seconds
   cook: 95°C
@@ -35,3 +34,5 @@ The bouquet of ready-made tea is bright, fruity with floral, spicy, woody, biscu
 Steep the tea in a hot water (95°C) in a gaiwan or a teapot made of porous clay. The proportion is 5-6 g per 100 ml. The time of the first steeping is 10 seconds. Then do short steeps (2-3 seconds) increasing steeping time for each subsequent step, if necessary. You can steep the tea up to 9 times.
 
 "Gaba Assam Hong Cha" is a great choice for an emotional reboot – rich, vivid and very fragrant.
+
+![](https://tea.dedunu.info/images/tea/2024-01-13-gaba-assam-hong-cha-1.jpeg)
