@@ -2,7 +2,7 @@
 date: 2024-03-14
 title: Ceylon Golden Tips
 categories:
-  - Oolong
+  - White
 featured_image: https://tea.dedunu.info/images/tea/2024-03-14-ceylon-golden-tips-1.jpg
 recipe:
   servings: 2g
