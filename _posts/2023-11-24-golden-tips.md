@@ -2,7 +2,7 @@
 date: 2023-11-24
 title: St. Claire Ceylon Golden Tips
 categories:
-  - Black
+  - White
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 recipe:
   servings: 2.5 g
