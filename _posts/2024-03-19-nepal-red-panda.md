@@ -16,4 +16,4 @@ recipe:
 
 ### Origin
 
-Sri Lanka
+Nepal
