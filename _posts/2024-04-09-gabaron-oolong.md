@@ -1,6 +1,6 @@
 ---
 date: 2024-04-09
-title: Ceylon Seven Spice
+title: Gabaron Oolong
 categories:
   - Oolong
 featured_image: https://tea.dedunu.info/images/tea/2024-04-09-gabaron-oolong-1.jpeg
