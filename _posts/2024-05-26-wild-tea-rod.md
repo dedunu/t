@@ -21,7 +21,7 @@ recipe:
 
 ### Origin
 
-China
+Sri Lanka
 
 ![](https://tea.dedunu.info/images/tea/2024-05-26-wild-tea-rod-2.jpeg)
 
