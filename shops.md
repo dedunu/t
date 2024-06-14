@@ -11,3 +11,8 @@ title: Shops
 - <https://www.yuuki-cha.com/>
 - <https://hatvala.com/>
 - <https://www.the-tea-crane.com/>
+
+- <https://siam-tee.de/>
+- <https://www.cajovydom.sk/>
+- <https://www.laoteashop.cz/>
+- <https://thetea.pl/>
