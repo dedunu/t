@@ -35,6 +35,8 @@ title: Shops
 - <https://www.the-tea-crane.com/>
 - <https://siam-tee.de/>
 - <https://www.laoteashop.cz/>
+- <https://www.teainmotion.nl>
+- <https://leaveswithhugs.com/>
 - <https://www.tee-kontor-kiel.de/>
 - <https://www.cajovydom.sk/>
 - <https://www.pu-erh.sk/>
