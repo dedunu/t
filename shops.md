@@ -5,13 +5,25 @@ title: Shops
 
 # Shops
 
+## Tried
+
 - <https://www.chado.ee/>
+- <https://teacoffeecentre.ee/>
+- <https://shop.dilmahtea.com/>
+- <https://hermanteas.com/>
+- <https://cajchai.com/>
 - <https://www.paperandtea.nl>
 - <https://www.chamoods.com/>
+- <https://www.theevansander.nl/>
+- <https://www.theemaas.nl/>
+- <https://www.hotsoup.nl/>
 - <https://unraveltea.com/>
+
+## Shops to try
+
 - <https://www.darjeelingteaboutique.com>
 - <https://www.thunderbolttea.com>
-- <https://www.yunnancraft.com/en/>
+- <https://www.yunnancraft.com/>
 - <https://meileaf.com/>
 - <https://anmo-art-cha.com/>
 - <https://www.yuuki-cha.com/>
@@ -26,12 +38,12 @@ title: Shops
 - <https://www.tee-kontor-kiel.de/>
 - <https://www.cajovydom.sk/>
 - <https://www.pu-erh.sk/>
-- <https://www.darjeeling.cz/en>
+- <https://www.darjeeling.cz/>
 - <https://www.teamountain.cz/>
 - <https://thetea.pl/>
-- <https://www.palaisdesthes.com/en/>
+- <https://www.palaisdesthes.com/>
 - <https://tetere.com/>
-- <https://www.postcardteas.com/site/>
+- <https://www.postcardteas.com/>
 - <http://www.diekunstdestees.de/>
 - <https://what-cha.com/>
 - <https://www.farmer-leaf.com/>
