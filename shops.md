@@ -5,27 +5,30 @@ title: Shops
 
 # Shops
 
-- <https://pmdtea.com/>
-- <https://teewald.de/>
+- <https://www.chado.ee/>
+- <https://www.paperandtea.nl>
+- <https://www.chamoods.com/>
+- <https://unraveltea.com/>
+- <https://www.darjeelingteaboutique.com>
+- <https://www.thunderbolttea.com>
 - <https://www.yunnancraft.com/en/>
 - <https://meileaf.com/>
 - <https://anmo-art-cha.com/>
 - <https://www.yuuki-cha.com/>
 - <https://hatvala.com/>
-- <https://www.the-tea-crane.com/>
-- <https://siam-tee.de/>
-- <https://www.tee-kontor-kiel.de/>
-- <https://www.cajovydom.sk/>
-- <https://www.pu-erh.sk/>
-- <https://www.laoteashop.cz/>
-- <https://www.darjeeling.cz/en>
-- <https://www.teamountain.cz/>
-- <https://thetea.pl/>
 - <https://www.chanomiya.com/>
 - <https://wistariaparis.com/>
 - <https://www.xinanchu.com/>
 - <https://www.si-cha.com/>
-- <https://www.chado.ee/>
+- <https://www.the-tea-crane.com/>
+- <https://siam-tee.de/>
+- <https://www.laoteashop.cz/>
+- <https://www.tee-kontor-kiel.de/>
+- <https://www.cajovydom.sk/>
+- <https://www.pu-erh.sk/>
+- <https://www.darjeeling.cz/en>
+- <https://www.teamountain.cz/>
+- <https://thetea.pl/>
 - <https://www.palaisdesthes.com/en/>
 - <https://tetere.com/>
 - <https://www.postcardteas.com/site/>
@@ -38,9 +41,5 @@ title: Shops
 - <https://www.thes-du-japon.com>
 - <https://teamania.ch/en/>
 - <https://daxuejiadao.com>
-- <https://www.paperandtea.nl>
-- <https://www.chamoods.com/>
-- <https://unraveltea.com/>
-- <https://www.darjeelingteaboutique.com>
-- <https://www.thunderbolttea.com>
-
+- <https://pmdtea.com/>
+- <https://teewald.de/>
