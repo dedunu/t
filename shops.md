@@ -57,3 +57,22 @@ title: Shops
 - <https://daxuejiadao.com>
 - <https://pmdtea.com/>
 - <https://teewald.de/>
+
+## Reddit List
+
+- <https://white2tea.com/>
+- <https://essenceoftea.com/>
+- <https://songtea.com/>
+- <https://tea-encounter.com/>
+- <https://www.dobratea.com/>
+- <https://www.bitterleafteas.com/>
+- <https://teaswelike.com/>
+- <https://www.lazycattea.com/>
+- <https://verdanttea.com/>
+- <https://moodyguy.biz/>
+- <https://purplecloudteahouse.com/>
+- <https://yinchenstudio.com/>
+- <https://www.teamasters.nl/en/>
+- <https://www.chawangshop.com/>
+- <https://kingteamall.com/en-nl>
+- <https://www.liquidproust.com/>
