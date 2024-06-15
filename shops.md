@@ -76,3 +76,11 @@ title: Shops
 - <https://www.chawangshop.com/>
 - <https://kingteamall.com/en-nl>
 - <https://www.liquidproust.com/>
+
+## Discord 
+
+- <https://bikouen.com/>
+- <https://iteaworld.com/>
+- <https://www.teahong.com>
+- <https://www.teavivre.com/>
+- <https://www.sugimotousa.com/>
