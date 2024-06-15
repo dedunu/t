@@ -41,3 +41,6 @@ title: Shops
 - <https://www.paperandtea.nl>
 - <https://www.chamoods.com/>
 - <https://unraveltea.com/>
+- <https://www.darjeelingteaboutique.com>
+- <https://www.thunderbolttea.com>
+
