@@ -21,8 +21,8 @@ title: Shops
 
 ## Shops to try
 
-- <https://www.darjeelingteaboutique.com>
-- <https://www.thunderbolttea.com>
+- <https://www.darjeelingteaboutique.com/>
+- <https://www.thunderbolttea.com/>
 - <https://www.yunnancraft.com/>
 - <https://meileaf.com/>
 - <https://anmo-art-cha.com/>
@@ -50,11 +50,11 @@ title: Shops
 - <https://what-cha.com/>
 - <https://www.farmer-leaf.com/>
 - <https://www.shuitang.ch/>
-- <https://www.laenggasstee.ch>
+- <https://www.laenggasstee.ch/>
 - <https://kanchatea.com/>
-- <https://www.thes-du-japon.com>
-- <https://teamania.ch/en/>
-- <https://daxuejiadao.com>
+- <https://www.thes-du-japon.com/>
+- <https://teamania.ch/>
+- <https://daxuejiadao.com/>
 - <https://pmdtea.com/>
 - <https://teewald.de/>
 
@@ -72,15 +72,15 @@ title: Shops
 - <https://moodyguy.biz/>
 - <https://purplecloudteahouse.com/>
 - <https://yinchenstudio.com/>
-- <https://www.teamasters.nl/en/>
+- <https://www.teamasters.nl/>
 - <https://www.chawangshop.com/>
-- <https://kingteamall.com/en-nl>
+- <https://kingteamall.com/>
 - <https://www.liquidproust.com/>
 
 ## Discord 
 
 - <https://bikouen.com/>
 - <https://iteaworld.com/>
-- <https://www.teahong.com>
+- <https://www.teahong.com/>
 - <https://www.teavivre.com/>
 - <https://www.sugimotousa.com/>
