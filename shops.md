@@ -10,21 +10,24 @@ title: Shops
 - <https://www.chado.ee/>
 - <https://teacoffeecentre.ee/>
 - <https://shop.dilmahtea.com/>
-- <https://hermanteas.com/>
 - <https://cajchai.com/>
-- <https://www.paperandtea.nl>
+- <https://www.paperandtea.nl/>
 - <https://www.chamoods.com/>
 - <https://www.theevansander.nl/>
 - <https://www.theemaas.nl/>
 - <https://www.hotsoup.nl/>
+- <https://hermanteas.com/>
 - <https://unraveltea.com/>
+- <https://www.yunnancraft.com/>
 
 ## Shops to try
 
-- <https://www.darjeelingteaboutique.com/>
+- <https://daxuejiadao.com/>
 - <https://www.thunderbolttea.com/>
-- <https://www.yunnancraft.com/>
+- <https://www.darjeelingteaboutique.com/>
 - <https://meileaf.com/>
+- <https://yunnansourcing.com/>
+- <https://www.teavivre.com/>
 - <https://anmo-art-cha.com/>
 - <https://www.yuuki-cha.com/>
 - <https://hatvala.com/>
@@ -54,12 +57,8 @@ title: Shops
 - <https://kanchatea.com/>
 - <https://www.thes-du-japon.com/>
 - <https://teamania.ch/>
-- <https://daxuejiadao.com/>
 - <https://pmdtea.com/>
 - <https://teewald.de/>
-
-## Reddit List
-
 - <https://white2tea.com/>
 - <https://essenceoftea.com/>
 - <https://songtea.com/>
@@ -76,11 +75,7 @@ title: Shops
 - <https://www.chawangshop.com/>
 - <https://kingteamall.com/>
 - <https://www.liquidproust.com/>
-
-## Discord 
-
 - <https://bikouen.com/>
 - <https://iteaworld.com/>
 - <https://www.teahong.com/>
-- <https://www.teavivre.com/>
 - <https://www.sugimotousa.com/>
