@@ -17,7 +17,7 @@ title: Samples
 10. Dilmah First Ceylon Oolong <https://shop.dilmahtea.nl/products/first-ceylon-oolong-45g-loose-leaf-tea-tseries>
 11. Tip of the morning Paper & Tea <https://www.paperandtea.nl/products/tip-of-the-morning-n-518>
 
-- Unmarked Pu er Bai Ya Paper & Tea <https://www.paperandtea.nl/products/pu-er-bai-ya-n-103>
+- Unmarked tea sample is Pu er Bai Ya from Paper & Tea <https://www.paperandtea.nl/products/pu-er-bai-ya-n-103>
 - <https://www.yunnancraft.com/en/> <- This shop came up for high quality low prices.
 - Nalin Moda <https://www.nalinmodha.com/> His tea is also catching up some steam.
 - I head these two shops are good too. (Never tried myself) <https://anmo-art-cha.com/> <https://daxuejiadao.com/>
