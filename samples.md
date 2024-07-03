@@ -1,3 +1,8 @@
+---
+layout: default
+title: Samples
+---
+
 # Samples
 
 1. Da Jin Ya Moychay https://moychay.nl/products/da-jin-ya-25g
