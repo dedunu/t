@@ -79,3 +79,4 @@ title: Shops
 - <https://iteaworld.com/>
 - <https://www.teahong.com/>
 - <https://www.sugimotousa.com/>
+- <https://teakruthi.com>
