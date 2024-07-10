@@ -31,6 +31,7 @@ title: Shops
 - <https://anmo-art-cha.com/>
 - <https://www.yuuki-cha.com/>
 - <https://hatvala.com/>
+- <https://darjeelingtealovers.com/>
 - <https://www.chanomiya.com/>
 - <https://wistariaparis.com/>
 - <https://www.xinanchu.com/>
