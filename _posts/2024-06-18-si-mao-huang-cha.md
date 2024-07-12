@@ -1,6 +1,6 @@
 ---
 date: 2024-06-18
-title: Forest Hill Wild Tea Rod
+title: Si Mao Huang Cha
 categories:
   - Yellow
 featured_image: https://tea.dedunu.info/images/tea/2024-06-18-si-mao-huang-cha-1.jpeg

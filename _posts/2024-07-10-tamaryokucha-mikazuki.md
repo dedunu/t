@@ -1,6 +1,6 @@
 ---
 date: 2024-07-10
-title: Forest Hill Wild Tea Rod
+title: Japan Tamaryokucha Mikazuki Organic Tea
 categories:
   - Green
 featured_image: https://tea.dedunu.info/images/tea/2024-07-10-tamaryokucha-mikazuki-1.jpeg

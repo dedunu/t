@@ -1,6 +1,6 @@
 ---
 date: 2024-06-24
-title: Forest Hill Wild Tea Rod
+title: Lumbini Valley Jayachakra
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-06-24-lumbini-valley-jayachakra-1.jpeg

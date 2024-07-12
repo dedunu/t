@@ -1,6 +1,6 @@
 ---
 date: 2024-06-07
-title: Forest Hill Wild Tea Rod
+title: Ruby GABA Oolong
 categories:
   - Oolong
 featured_image: https://tea.dedunu.info/images/tea/2024-06-07-ruby-gaba-oolong-1.jpeg

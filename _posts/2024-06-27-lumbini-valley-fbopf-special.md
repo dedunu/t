@@ -1,6 +1,6 @@
 ---
 date: 2024-06-27
-title: Forest Hill Wild Tea Rod
+title: Lumbini Valley FBOPF Special
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-06-27-lumbini-valley-fbopf-special-1.jpeg

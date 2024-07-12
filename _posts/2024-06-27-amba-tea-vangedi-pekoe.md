@@ -1,6 +1,6 @@
 ---
 date: 2024-06-27
-title: Forest Hill Wild Tea Rod
+title: Vangedi Pekoe
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-06-27-amba-tea-vangedi-pekoe-1.jpeg
