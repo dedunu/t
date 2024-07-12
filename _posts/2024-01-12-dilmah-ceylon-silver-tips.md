@@ -30,3 +30,8 @@ White tea is the delicate, tender bud of two leaves; the bud, which provides bes
 This rarity comes at a price and sadly because of this, most of the white teas offered around the world are adulterated; sometimes containing less than 2% of white tea. Dilmah white tea is real white tea offering consumers the subtle and very refined experience of this exclusive beverage.
 
 ![silver tips](https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-2.PNG)
+
+![silver tips](https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-3.jpeg)
+
+![silver tips](https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-4.jpeg)
+
