@@ -20,21 +20,24 @@ title: Shops
 - <https://unraveltea.com/>
 - <https://www.yunnancraft.com/>
 
-## Shops to try
+## Short list
 
 - <https://daxuejiadao.com/>
+- <https://txs-tea.com/>
+- <https://www.wuyiorigin.com/>
+- <https://yunnansourcing.com/>
+- <https://anmo-art-cha.com/>
+
+## Shops
+
 - <https://www.thunderbolttea.com/>
 - <https://www.darjeelingteaboutique.com/>
 - <https://meileaf.com/>
-- <https://yunnansourcing.com/>
 - <https://www.teavivre.com/>
-- <https://anmo-art-cha.com/>
 - <https://www.yuuki-cha.com/>
 - <https://hatvala.com/>
 - <https://darjeelingtealovers.com/>
-- <https://www.wuyiorigin.com/>
 - <https://www.chanomiya.com/>
-- <https://txs-tea.com/>
 - <https://wistariaparis.com/>
 - <https://www.xinanchu.com/>
 - <https://www.si-cha.com/>
