@@ -32,7 +32,9 @@ title: Shops
 - <https://www.yuuki-cha.com/>
 - <https://hatvala.com/>
 - <https://darjeelingtealovers.com/>
+- <https://www.wuyiorigin.com/>
 - <https://www.chanomiya.com/>
+- <https://txs-tea.com/>
 - <https://wistariaparis.com/>
 - <https://www.xinanchu.com/>
 - <https://www.si-cha.com/>
