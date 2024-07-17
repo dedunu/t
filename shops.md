@@ -19,6 +19,7 @@ title: Shops
 - <https://hermanteas.com/>
 - <https://unraveltea.com/>
 - <https://www.yunnancraft.com/>
+- <https://anmo-art-cha.com/>
 
 ## Short list
 
@@ -26,7 +27,6 @@ title: Shops
 - <https://txs-tea.com/>
 - <https://www.wuyiorigin.com/>
 - <https://yunnansourcing.com/>
-- <https://anmo-art-cha.com/>
 
 ## Shops
 
