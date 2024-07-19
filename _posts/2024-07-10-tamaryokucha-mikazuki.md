@@ -19,9 +19,6 @@ recipe:
 
 <https://www.theartoftea.nl/tamaryokucha-mikazuki.html>
 
-### Origin
-
-Sri Lanka
 
 ![](https://tea.dedunu.info/images/tea/2024-07-10-tamaryokucha-mikazuki-2.jpeg)
 

@@ -42,3 +42,5 @@ Yunnan, China
 ![](https://tea.dedunu.info/images/tea/2024-02-17-silver-needles-highest-grade-2.jpg)
 
 ![](https://tea.dedunu.info/images/tea/2024-02-17-silver-needles-highest-grade-3.jpg)
+
+![](https://tea.dedunu.info/images/tea/2024-02-17-silver-needles-highest-grade-4.jpg)

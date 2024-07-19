@@ -19,9 +19,6 @@ recipe:
 
 <https://www.hotsoup.nl/en/zheng-shan-xiao-zhong-hong-cha-a-ongerookte-lapsang-souchong.html>
 
-### Origin
-
-Sri Lanka
 
 ![](https://tea.dedunu.info/images/tea/2024-06-20-zhen-shan-xiao-zhong-a-2.jpeg)
 

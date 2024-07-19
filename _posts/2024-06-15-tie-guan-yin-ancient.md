@@ -19,10 +19,6 @@ recipe:
 
 <https://www.theevansander.nl/webwinkel/china/china-specialty/tie-guan-yin-ancient/>
 
-### Origin
-
-Sri Lanka
-
 ![](https://tea.dedunu.info/images/tea/2024-06-15-tie-guan-yin-ancient-2.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-06-15-tie-guan-yin-ancient-3.jpeg)

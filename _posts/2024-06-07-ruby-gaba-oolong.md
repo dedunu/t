@@ -19,10 +19,6 @@ recipe:
 
 <https://moychay.nl/products/ruby-gaba-oolong>
 
-### Origin
-
-Sri Lanka
-
 ![](https://tea.dedunu.info/images/tea/2024-06-07-ruby-gaba-oolong-2.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-06-07-ruby-gaba-oolong-3.jpeg)

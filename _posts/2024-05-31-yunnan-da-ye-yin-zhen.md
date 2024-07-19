@@ -19,8 +19,4 @@ recipe:
 
 <https://www.hotsoup.nl/en/yunnan-da-ye-yin-zhen-zilvernaald-witte-thee.html>
 
-### Origin
-
-Sri Lanka
-
 ![](https://tea.dedunu.info/images/tea/2024-05-31-yunnan-da-ye-yin-zhen-2.jpeg)
