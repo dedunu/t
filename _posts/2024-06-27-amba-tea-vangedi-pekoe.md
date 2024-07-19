@@ -5,14 +5,13 @@ categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-06-27-amba-tea-vangedi-pekoe-1.jpeg
 recipe:
-  servings: 1g
-  prep: 3 min
-  cook: 90°C
+  servings: N/A
+  prep: N/A
+  cook: N/A
   ingredients_markdown: |-
-    * Vanilla
+    * N/A
   directions_markdown: |-
-    1. Love it.
-    2. Need to buy it again
+    1. N/A
 ---
 
 ## Original Link
