@@ -19,10 +19,6 @@ recipe:
 
 <https://www.hotsoup.nl/en/herkomst/doke-silver-needle-2023.html>
 
-### Origin
-
-Sri Lanka
-
 ![](https://tea.dedunu.info/images/tea/2024-06-12-doke-silver-needle-2.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-06-12-doke-silver-needle-3.jpeg)

@@ -19,10 +19,6 @@ recipe:
 
 <https://www.theevansander.nl/webwinkel/oolong-thee/four-seasons-oolong/>
 
-### Origin
-
-Sri Lanka
-
 ![](https://tea.dedunu.info/images/tea/2024-06-17-four-seasons-2.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-06-17-four-seasons-3.jpeg)

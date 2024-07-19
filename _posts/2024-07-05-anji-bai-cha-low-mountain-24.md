@@ -19,10 +19,6 @@ recipe:
 
 <https://www.theevansander.nl/webwinkel/china/china-specialty/anji-bai-cha-low-mountain/>
 
-### Origin
-
-Sri Lanka
-
 ![](https://tea.dedunu.info/images/tea/2024-07-05-anji-bai-cha-low-mountain-24-2.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-07-05-anji-bai-cha-low-mountain-24-3.jpeg)

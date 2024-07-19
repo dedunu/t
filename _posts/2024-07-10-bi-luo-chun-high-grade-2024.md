@@ -19,10 +19,6 @@ recipe:
 
 <https://www.theevansander.nl/webwinkel/groene-thee/groene-thee-specialty/bi-luo-chun-taiwan/>
 
-### Origin
-
-Sri Lanka
-
 ![](https://tea.dedunu.info/images/tea/2024-07-10-bi-luo-chun-high-grade-2024-2.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-07-10-bi-luo-chun-high-grade-2024-3.jpeg)

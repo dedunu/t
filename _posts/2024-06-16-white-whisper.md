@@ -19,10 +19,6 @@ recipe:
 
 <https://www.hotsoup.nl/en/kenia-white-whisper-zilvernaald-witte-thee.html>
 
-### Origin
-
-Sri Lanka
-
 ![](https://tea.dedunu.info/images/tea/2024-06-16-white-whisper-2.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-06-16-white-whisper-3.jpeg)

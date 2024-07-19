@@ -19,8 +19,5 @@ recipe:
 
 <https://www.theevansander.nl/webwinkel/china/china-specialty/da-hong-pao-high-grade/>
 
-### Origin
-
-Sri Lanka
 
 ![](https://tea.dedunu.info/images/tea/2024-05-29-da-hong-pao-2.jpeg)
