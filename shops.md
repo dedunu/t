@@ -24,13 +24,13 @@ title: Shops
 ## Short list
 
 - <https://daxuejiadao.com/>
-- <https://txs-tea.com/>
 - <https://www.wuyiorigin.com/>
 - <https://yunnansourcing.com/>
+- <https://www.thunderbolttea.com/>
+- <https://txs-tea.com/>
 
 ## Shops
 
-- <https://www.thunderbolttea.com/>
 - <https://www.darjeelingteaboutique.com/>
 - <https://meileaf.com/>
 - <https://www.teavivre.com/>
