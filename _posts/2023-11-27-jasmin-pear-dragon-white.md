@@ -1,8 +1,8 @@
 ---
 date: 2023-11-27
-title: St. Claire Black Roses Hand Rolled Tea
+title: Dilmah Jasmine Pear Dragon White Tea
 categories:
-  - Black
+  - White
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 recipe:
   servings: 2.5 g
