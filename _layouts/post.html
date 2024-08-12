@@ -11,6 +11,7 @@ layout: default
 		{{ content }}
 	</div>
 
+	{% comment %}
 	<ul id="recipe" class="recipe-overview">
 		<li title="Servings"><i class="fa-solid fa-weight-hanging"></i>{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 		<li title="Prep Time"><i class="fa-solid fa-clock"></i>{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
@@ -28,6 +29,7 @@ layout: default
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
 	</div>
+	{% endcomment %}
 </article>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
