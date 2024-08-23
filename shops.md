@@ -29,7 +29,7 @@ title: Shops
 - <https://www.thunderbolttea.com/>
 - <https://www.laenggasstee.ch/>
 - <https://teamania.ch/>
-- <https://onerivertea.com>
+- <https://onerivertea.com/>
 
 ## Shops
 
