@@ -25,12 +25,15 @@ title: Shops
 
 - <https://daxuejiadao.com/>
 - <https://www.wuyiorigin.com/>
-- <https://yunnansourcing.com/>
 - <https://www.thunderbolttea.com/>
-- <https://txs-tea.com/>
+- <https://www.laenggasstee.ch/>
+- <https://teamania.ch/>
+- <https://onerivertea.com>
 
 ## Shops
 
+- <https://txs-tea.com/>
+- <https://yunnansourcing.com/>
 - <https://www.darjeelingteaboutique.com/>
 - <https://meileaf.com/>
 - <https://www.teavivre.com/>
@@ -59,10 +62,8 @@ title: Shops
 - <https://what-cha.com/>
 - <https://www.farmer-leaf.com/>
 - <https://www.shuitang.ch/>
-- <https://www.laenggasstee.ch/>
 - <https://kanchatea.com/>
 - <https://www.thes-du-japon.com/>
-- <https://teamania.ch/>
 - <https://teewald.de/>
 - <https://white2tea.com/>
 - <https://songtea.com/>
