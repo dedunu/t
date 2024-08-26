@@ -1,6 +1,6 @@
 ---
 date: 2024-08-25
-title: 2024 Tao Xiang Xaio Zhong - YunnanCraft
+title: 2024 Tao Xiang Xaio Zhong - Yunnan Craft
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-08-25-tao-xiang-xaio-zhong-1.jpeg
