@@ -4,15 +4,6 @@ title: Twinings Earl Grey
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
-recipe:
-  servings: 2 g
-  prep: 5 seconds
-  cook: 100°C
-  ingredients_markdown: |-
-    * Light
-  directions_markdown: |-
-    1. This got me started in tea drinking.
-    2. I like the light taste.
 ---
 
 ## Original Product Link
