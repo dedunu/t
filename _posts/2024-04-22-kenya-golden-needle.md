@@ -4,16 +4,6 @@ title: Kenya Golden Needle 2022
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-04-22-kenya-golden-needle-1.jpeg
-recipe:
-  servings: 2g
-  prep: 3 min
-  cook: 90°C
-  ingredients_markdown: |-
-    * N/A
-  directions_markdown: |-
-    1. Good
-    2. I like it
-    3. Might buy it again
 ---
 
 ## Original Link

@@ -4,15 +4,6 @@ title: Da Jin Zhen
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-03-08-da-jin-zhen-1.jpg
-recipe:
-  servings: 3g
-  prep: 1 min
-  cook: 90°C
-  ingredients_markdown: |-
-    * Malt
-    * Sweet
-  directions_markdown: |-
-    1. Very good
 ---
 
 ## Original Description

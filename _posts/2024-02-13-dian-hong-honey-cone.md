@@ -4,18 +4,6 @@ title: Dian Hong Honey Cone
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-02-13-dian-hong-honey-cone-1.jpg
-recipe:
-  servings: 2g
-  prep: 2 min
-  cook: 80°C
-  ingredients_markdown: |-
-    * Malt
-    * Sweet
-  directions_markdown: |-
-    1. This was very similar to other dian hongs.
-    2. It was tied with a string/thread.
-    3. I woulnd't order this again.
-    4. It is nice but it is not exceptional.
 ---
 
 ## Original Description

@@ -4,16 +4,6 @@ title: St. Claire Black Roses Hand Rolled Tea
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
-recipe:
-  servings: 2.5 g
-  prep: 2 – 3 Minutes
-  cook: 70˚C – 80˚C
-  ingredients_markdown: |-
-    * Flowery
-  directions_markdown: |-
-    1. Carefully rolled
-    2. Smells great.
-    3. Woud definitely buy again
 ---
 
 ## Original Product Link

@@ -4,18 +4,6 @@ title: Jasmine Needle
 categories:
   - White
 featured_image: https://tea.dedunu.info/images/tea/2024-01-25-jasmin-needles-2.jpg
-recipe:
-  servings: 2 g
-  prep: 1 min
-  cook: 80°C
-  ingredients_markdown: |-
-    * Floral
-  directions_markdown: |-
-    1. I liked the smell.
-    2. Tastle is subtle.
-    3. Got a headache the first time.
-    4. High quality tea.
-    5. Too light with 1g.
 ---
 ## Original Description
 

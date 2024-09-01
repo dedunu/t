@@ -4,16 +4,6 @@ title: Dong Ding Traditional
 categories:
   - Oolong
 featured_image: https://tea.dedunu.info/images/tea/2024-02-23-dong-ding-traditional-1.jpg
-recipe:
-  servings: 2g
-  prep: 2 min
-  cook: 80°C
-  ingredients_markdown: |-
-    * Buiscuit
-    * Slighly Smokey
-  directions_markdown: |-
-    1. After 3 steeps taste was very light.
-    2. I like it.
 ---
 
 ## Original Description

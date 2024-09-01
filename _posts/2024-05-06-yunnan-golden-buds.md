@@ -4,14 +4,6 @@ title: Yunnan Golden Buds, Dian Hong Jin Ya Bio
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-05-06-yunnan-golden-buds-1.jpeg
-recipe:
-  servings: 2g
-  prep: 3 min
-  cook: 90°C
-  ingredients_markdown: |-
-    * N/A
-  directions_markdown: |-
-    1. Average
 ---
 
 ## Original Link

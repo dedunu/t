@@ -4,15 +4,6 @@ title: Sencha Fuji
 categories:
   - Green
 featured_image: https://tea.dedunu.info/images/tea/2024-01-04-sencha-fuji-1.jpeg
-recipe:
-  servings: 2 g
-  prep: 1 mins
-  cook: 80°C
-  ingredients_markdown: |-
-    * Grassy
-  directions_markdown: |-
-    1. Couldn't drink at all
-    2. Free sample
 ---
 
 ## Original Product Link

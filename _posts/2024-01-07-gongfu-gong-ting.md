@@ -4,15 +4,6 @@ title: Gongfu Gong Ting 2019
 categories:
   - Pu-erh
 featured_image: https://tea.dedunu.info/images/tea/2024-01-07-gongfu-gong-ting-1.png
-recipe:
-  servings: 6 g
-  prep: 1 seconds
-  cook: 95˚C
-  ingredients_markdown: |-
-    * Smorky
-  directions_markdown: |-
-    1. Very difficult to drink
-    2. Started with the second steep still very smorky
 ---
 
 ## Original Product Link

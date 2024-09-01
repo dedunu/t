@@ -4,18 +4,6 @@ title: St. Claire Ceylon Silver Tips
 categories:
   - White
 featured_image: https://tea.dedunu.info/images/tea/2023-11-23-ceylon-silver-tips-1.jpeg
-recipe:
-  servings: 2.5 g
-  prep: 2 – 3 Minutes
-  cook: 70˚C – 80˚C
-  ingredients_markdown: |-
-    * Light
-  directions_markdown: |-
-    1. I love it.
-    2. Bought it from Sri Lanka.
-    3. I bought multiple tea caddies.
-    4. Cheaper than Dilmah.
-    5. Less white fuss.
 ---
 
 ## Original Product Link

@@ -4,16 +4,6 @@ title: Silver Needle highest grade
 categories:
   - White
 featured_image: https://tea.dedunu.info/images/tea/2024-02-17-silver-needles-highest-grade-1.jpg
-recipe:
-  servings: 2 g
-  prep: 1 min
-  cook: 80°C
-  ingredients_markdown: |-
-    * Grassy
-  directions_markdown: |-
-    1. Tasts like [Kola Kenda](https://en.wikipedia.org/wiki/Kola_kanda).
-    2. It is fresh.
-    3. Definitely an interesting tea.
 ---
 ## Original Description
 

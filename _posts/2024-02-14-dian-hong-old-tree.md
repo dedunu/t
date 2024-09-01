@@ -4,17 +4,6 @@ title: Dian Hong Old Tree
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-02-14-dian-hong-old-tree-1.jpg
-recipe:
-  servings: 2g
-  prep: 2 min
-  cook: 80°C
-  ingredients_markdown: |-
-    * Earthy
-    * Malt
-    * Slightly Sweet
-  directions_markdown: |-
-    1. This was the best Dian Hong from all of them.
-    2. I would like to try this again in a while.
 ---
 
 ## Original Description

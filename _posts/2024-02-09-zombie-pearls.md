@@ -4,16 +4,6 @@ title: Satemwa Zombie Pearls
 categories:
   - White
 featured_image: https://tea.dedunu.info/images/tea/2024-02-09-zombie-pearls-1.jpg
-recipe:
-  servings: 3 pearls
-  prep: 2 min
-  cook: 80°C
-  ingredients_markdown: |-
-    * Smooth
-  directions_markdown: |-
-    1. I love it.
-    2. I definitely want to drink it more.
-    3. Best non tippy white tea I have tried so far.
 ---
 ## Original Description
 

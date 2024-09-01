@@ -4,16 +4,6 @@ title: Silver Stem Tea
 categories:
   - White
 featured_image: https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-7.jpg
-recipe:
-  servings: 2 g
-  prep: 2 min
-  cook: 80°C
-  ingredients_markdown: |-
-    * Light
-  directions_markdown: |-
-    1. I love it.
-    2. I definitely want to drink it more.
-    3. Darker than silver tips
 ---
 ## Original Description
 

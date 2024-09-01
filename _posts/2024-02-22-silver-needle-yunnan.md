@@ -4,15 +4,6 @@ title: Silver Needle Yunnan
 categories:
   - White
 featured_image: https://tea.dedunu.info/images/tea/2024-02-22-silver-needle-yunnan-1.jpg
-recipe:
-  servings: 1.5 g
-  prep: 1 min
-  cook: 80°C
-  ingredients_markdown: |-
-    * Light
-  directions_markdown: |-
-    1. Good.
-    2. Can't think of anything exceptional about this.
 ---
 ## Original Description
 

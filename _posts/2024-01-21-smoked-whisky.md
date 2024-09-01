@@ -4,19 +4,6 @@ title: Smoked Whiskey Black
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-01-21-smoked-whisky-1.jpg
-recipe:
-  servings: 1.7 g
-  prep: 1 min
-  cook: 80°C
-  ingredients_markdown: |-
-    * Peaty
-    * Mellow
-  directions_markdown: |-
-    1. I love it.
-    2. Second steep is even better.
-    3. I love the aroma.
-    4. 5g => 1.70 EUR at theevansander.nl
-    5. Reminds me of Islay Whisky.
 ---
 
 ## Original Product Link

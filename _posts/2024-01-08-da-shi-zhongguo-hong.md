@@ -4,17 +4,6 @@ title: Da Shi Zhongguo Hong
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-01-08-da-shi-zhongguo-hong-1.PNG
-recipe:
-  servings: 4 g
-  prep: 2 seconds
-  cook: 90°C
-  ingredients_markdown: |-
-    * Fruity
-    * Brandy
-    * Eucalyptus
-  directions_markdown: |-
-    1. Aroma is great
-    2. I would buy this again
 ---
 
 ## Original Product Link

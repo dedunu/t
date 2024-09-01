@@ -4,14 +4,6 @@ title: Gaba Shu Cha
 categories:
   - Pu-erh
 featured_image: https://tea.dedunu.info/images/tea/2024-03-02-gaba-shu-cha-1.jpg
-recipe:
-  servings: 2 g
-  prep: 1 min 
-  cook: 95˚C
-  ingredients_markdown: |-
-    * Smorky
-  directions_markdown: |-
-    1. I didn't like it very much.
 ---
 
 ## Original Product Link

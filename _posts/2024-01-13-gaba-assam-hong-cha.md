@@ -4,20 +4,6 @@ title: GABA Assam Hong Cha, Thailand (Winter 2022)
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-03-02-gaba-assam-hong-cha-1.jpg
-recipe:
-  servings: 6 g
-  prep: 5 seconds
-  cook: 95°C
-  ingredients_markdown: |-
-    * Buicuit
-    * Spicy
-  directions_markdown: |-
-    1. Very similar to the other GABA oolongs I tasted.
-    2. I love the aroma.
-    3. 50g => 13.50 EUR at Mochay.nl
-    4. Got it as a free sample. 
-    5. Lighter than Mi Huan GABA.
-    6. I like Mi Huan GABA more.
 ---
 
 ## Original Product Link

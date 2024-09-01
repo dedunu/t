@@ -4,15 +4,6 @@ title: Dilmah Jasmine Pear Dragon White Tea
 categories:
   - White
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
-recipe:
-  servings: 2.5 g
-  prep: 2 – 3 Minutes
-  cook: 70˚C – 80˚C
-  ingredients_markdown: |-
-    * Floral
-  directions_markdown: |-
-    1. Subtle
-    2. Lovely on the nose
 ---
 
 ## Original Product Link

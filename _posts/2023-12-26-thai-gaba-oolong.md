@@ -4,16 +4,6 @@ title: Thai Gaba Oolong
 categories:
   - Oolong
 featured_image: https://tea.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-1.PNG
-recipe:
-  servings: 6 g
-  prep: 5 seconds
-  cook: 90°C
-  ingredients_markdown: |-
-    * Earthy
-    * Heavy
-  directions_markdown: |-
-    1. Good.
-    2. I like it. But I wouldn't buy it again.
 ---
 
 ## Original Product Link

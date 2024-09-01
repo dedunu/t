@@ -4,17 +4,6 @@ title: Mi Huan Gaba Oolong
 categories:
   - Oolong
 featured_image: https://tea.dedunu.info/images/tea/2024-01-10-mi-huan-gaba-oolong-1.PNG
-recipe:
-  servings: 5 g
-  prep: 8-10 seconds
-  cook: 95°C
-  ingredients_markdown: |-
-    * Sweet
-    * Buiscuit
-    * Mellow
-  directions_markdown: |-
-    1. Loved it.
-    2. Smells great.
 ---
 
 ## Original Product Link

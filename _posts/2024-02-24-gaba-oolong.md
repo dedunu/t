@@ -4,16 +4,6 @@ title: GABA Oolong Medium Rosted
 categories:
   - Oolong
 featured_image: https://tea.dedunu.info/images/tea/2024-02-24-gaba-oolong-1.jpg
-recipe:
-  servings: 2.5g
-  prep: 2 min
-  cook: 80°C
-  ingredients_markdown: |-
-    * Light
-    * Slighly Smokey
-  directions_markdown: |-
-    1. Drinkable
-    2. Might not order again.
 ---
 
 ## Original Description

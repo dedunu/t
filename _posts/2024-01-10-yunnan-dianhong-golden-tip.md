@@ -4,18 +4,6 @@ title: Yunnan Dianhong Golden Tip
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-1.PNG
-recipe:
-  servings: 4-5 g
-  prep: 15 seconds
-  cook: 100°C
-  ingredients_markdown: |-
-    * Malt
-    * Sweet
-  directions_markdown: |-
-    1. Didn't have a strong flavor like the previous golden tips.
-    2. I love the aroma.
-    3. 25g => 8.25 EUR at chamoods.com
-    4. It was packaged very well.
 ---
 
 ## Original Product Link

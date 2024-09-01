@@ -4,17 +4,6 @@ title: Lumbini Pure Black BOP
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2023-12-18-lumbini-bop-1.PNG
-recipe:
-  servings: 2 g
-  prep: 20 seconds
-  cook: 90°C
-  ingredients_markdown: |-
-    * Earthy
-    * Heavy
-  directions_markdown: |-
-    1. Ruby color
-    2. Taste aged
-    3. Light steeps are pleasant
 ---
 
 ## Original Product Link

@@ -4,18 +4,6 @@ title: Paper & Tea PU ER BAI YA - N°103
 categories:
   - White
 featured_image: https://tea.dedunu.info/images/tea/2024-01-09-paper-and-tea-pu-er-bai-ya-1.PNG
-recipe:
-  servings: 3 g
-  prep: 2 – 3 Minutes
-  cook: 80˚C
-  ingredients_markdown: |-
-    * Mint
-    * Bright
-    * Pine needles
-  directions_markdown: |-
-    1. It was very similar to the Caj Chai White buds.
-    2. I would love to taste it once in a while.
-    3. 18 EUR (Definitely overpriced because of the packaging.)
 ---
 
 ## Original Product Link

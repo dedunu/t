@@ -4,16 +4,6 @@ title: Lishiwei Milan xiang (Honey Orchid)
 categories:
   - Oolong
 featured_image: https://tea.dedunu.info/images/tea/2024-01-09-lishiwei-milan-xiang-1.PNG
-recipe:
-  servings: 7 g
-  prep: 5 seconds
-  cook: 95°C
-  ingredients_markdown: |-
-    * Floral
-    * Light
-  directions_markdown: |-
-    1. Cannot steep multiple times
-    2. Might buy it again
 ---
 
 ## Original Product Link
