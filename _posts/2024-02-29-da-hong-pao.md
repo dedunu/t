@@ -4,18 +4,6 @@ title: Da Hong Pao
 categories:
   - Oolong
 featured_image: https://tea.dedunu.info/images/tea/2024-02-29-da-hong-pao-1.jpg
-recipe:
-  servings: 2 g
-  prep: 1-2 mins
-  cook: 95°C
-  ingredients_markdown: |-
-    * Sweet
-    * Earthy
-  directions_markdown: |-
-    1. Amazing
-    2. I bought the second package right after drinking it once.
-    3. I love this.
-    4. Bit expensive.
 ---
 
 ## Original Product Link

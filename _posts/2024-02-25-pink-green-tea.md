@@ -4,16 +4,6 @@ title: Pink Green Tea
 categories:
   - Green
 featured_image: https://tea.dedunu.info/images/tea/2024-02-25-pink-green-tea-1.jpg
-recipe:
-  servings: 1 g
-  prep: 1 mins
-  cook: 80°C
-  ingredients_markdown: |-
-    * Light
-  directions_markdown: |-
-    1. Didn't try the lemon drop yet.
-    2. Very drinkable. 
-    3. I love it.
 ---
 
 ## Original Product Link

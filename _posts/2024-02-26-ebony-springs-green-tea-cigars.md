@@ -4,15 +4,6 @@ title: Ebony Springs Green Tea Cigars
 categories:
   - Green
 featured_image: https://tea.dedunu.info/images/tea/2024-02-26-ebony-springs-green-tea-cigars-1.jpg
-recipe:
-  servings: 1 g
-  prep: 1 mins
-  cook: 80°C
-  ingredients_markdown: |-
-    * Light
-  directions_markdown: |-
-    1. I love it.
-    2. I want to get more of this tea.
 ---
 
 ## Original Product Link

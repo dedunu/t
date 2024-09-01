@@ -4,15 +4,6 @@ title: Ceylon Indulgashinna Blink Bonnie
 categories:
   - Black
 featured_image: https://tea.dedunu.info/images/tea/2024-03-11-blink-bonnie-1.jpg
-recipe:
-  servings: 2g
-  prep: 3 min
-  cook: 90°C
-  ingredients_markdown: |-
-    * Floral
-    * Sweet
-  directions_markdown: |-
-    1. Distinct
 ---
 
 ## Original Description
