@@ -2,7 +2,7 @@
 date: 2024-03-14
 title: Ceylon Oolong Dessford - Abbotsford 
 categories:
-  - Oolong
+  - Oolongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-03-14-ceylon-oolong-1.jpg
 ---
 

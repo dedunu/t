@@ -2,7 +2,7 @@
 date: 2024-04-17
 title: Da Hong Pao Organic
 categories:
-  - Oolong
+  - Oolongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-04-17-bio-da-hong-pao-1.jpeg
 ---
 

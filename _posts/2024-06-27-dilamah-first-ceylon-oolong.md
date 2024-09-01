@@ -2,7 +2,7 @@
 date: 2024-06-27
 title: Dilmah First Ceylon Oolong
 categories:
-  - Oolong
+  - Oolongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-06-27-dilamah-first-ceylon-oolong-1.jpeg
 ---
 

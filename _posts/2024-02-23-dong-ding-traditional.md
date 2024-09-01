@@ -2,7 +2,7 @@
 date: 2024-02-23
 title: Dong Ding Traditional
 categories:
-  - Oolong
+  - Oolongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-02-23-dong-ding-traditional-1.jpg
 ---
 

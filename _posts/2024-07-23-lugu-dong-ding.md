@@ -2,7 +2,7 @@
 date: 2024-07-23
 title: Lugu Dong Ding Gaba Oolong - Moychay
 categories:
-  - Oolong
+  - Oolongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-07-23-lugu-dong-ding-1.jpeg
 ---
 
