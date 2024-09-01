@@ -2,7 +2,7 @@
 date: 2024-05-12
 title: Wuyi Zi Juan White, Purple tea
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-05-12-wuyi-zi-juan-1.jpeg
 ---
 

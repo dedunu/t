@@ -2,7 +2,7 @@
 date: 2024-01-08
 title: Da Shi Zhongguo Hong
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-01-08-da-shi-zhongguo-hong-1.PNG
 ---
 

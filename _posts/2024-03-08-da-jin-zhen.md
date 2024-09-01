@@ -2,7 +2,7 @@
 date: 2024-03-08
 title: Da Jin Zhen
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-03-08-da-jin-zhen-1.jpg
 ---
 

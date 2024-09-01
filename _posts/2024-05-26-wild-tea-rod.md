@@ -2,7 +2,7 @@
 date: 2024-05-26
 title: Forest Hill Wild Tea Rod
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-05-26-wild-tea-rod-1.jpeg
 ---
 

@@ -2,7 +2,7 @@
 date: 2024-02-26
 title: Ebony Springs Green Tea Cigars
 categories:
-  - Green
+  - Lucha
 featured_image: https://tea.dedunu.info/images/tea/2024-02-26-ebony-springs-green-tea-cigars-1.jpg
 ---
 

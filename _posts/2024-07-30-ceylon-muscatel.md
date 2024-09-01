@@ -2,7 +2,7 @@
 date: 2024-07-30
 title: Ceylon Muscatel - Unravel Tea
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-07-30-ceylon-muscatel-1.jpeg
 ---
 

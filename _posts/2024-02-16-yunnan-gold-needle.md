@@ -2,7 +2,7 @@
 date: 2024-02-16
 title: Yunnan Gold Needle
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-02-16-yunnan-gold-needle-1.jpg
 ---
 

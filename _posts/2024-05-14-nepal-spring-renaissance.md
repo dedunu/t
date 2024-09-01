@@ -2,7 +2,7 @@
 date: 2024-05-14
 title: Nepal First Flush Jun Chiyabari 2023 Spring Renaissance
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-05-14-nepal-spring-renaissance-1.jpeg
 ---
 

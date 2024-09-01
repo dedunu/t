@@ -2,7 +2,7 @@
 date: 2024-01-10
 title: Yunnan Dianhong Golden Tip
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-1.PNG
 ---
 

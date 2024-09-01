@@ -2,7 +2,7 @@
 date: 2023-10-01
 title: Ceylon curly Pekoe Matale
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 ---
 

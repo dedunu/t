@@ -2,7 +2,7 @@
 date: 2024-05-18
 title: Golden Snail, Red Snail, Hong Jing Luo
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-05-18-hong-jing-luo-1.jpeg
 ---
 

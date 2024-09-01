@@ -2,7 +2,7 @@
 date: 2024-01-21
 title: Smoked Whiskey Black
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-01-21-smoked-whisky-1.jpg
 ---
 

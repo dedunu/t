@@ -2,7 +2,7 @@
 date: 2024-02-03
 title: Silver Stem Tea
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-02-03-silver-stem-7.jpg
 ---
 

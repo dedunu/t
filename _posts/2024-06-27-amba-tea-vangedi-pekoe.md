@@ -2,7 +2,7 @@
 date: 2024-06-27
 title: Vangedi Pekoe
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-06-27-amba-tea-vangedi-pekoe-1.jpeg
 ---
 

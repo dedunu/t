@@ -2,7 +2,7 @@
 date: 2023-11-12
 title: Wild Silver Needles Vietnam
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2023-11-12-wild-silver-needles-1.jpeg
 ---
 

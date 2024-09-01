@@ -2,7 +2,7 @@
 date: 2024-04-03
 title: Ceylon Seven Spice
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-04-03-ceylon-seven-spice-1.jpeg
 ---
 

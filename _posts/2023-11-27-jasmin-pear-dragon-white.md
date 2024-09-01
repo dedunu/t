@@ -2,7 +2,7 @@
 date: 2023-11-27
 title: Dilmah Jasmine Pear Dragon White Tea
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 ---
 

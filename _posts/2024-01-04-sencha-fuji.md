@@ -2,7 +2,7 @@
 date: 2024-01-04
 title: Sencha Fuji
 categories:
-  - Green
+  - Lucha
 featured_image: https://tea.dedunu.info/images/tea/2024-01-04-sencha-fuji-1.jpeg
 ---
 

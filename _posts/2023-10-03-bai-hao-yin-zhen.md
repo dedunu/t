@@ -2,7 +2,7 @@
 date: 2023-10-03
 title: Bai Hao Yin Zhen 
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 ---
 

@@ -2,7 +2,7 @@
 date: 2023-10-07
 title: Golden Needles
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 ---
 

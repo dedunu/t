@@ -2,7 +2,7 @@
 date: 2024-08-31
 title: Lapsang Souchong - Traditional - Yunnan Craft
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-08-31-lapsong-suchong-1.jpeg
 ---
 

@@ -2,7 +2,7 @@
 date: 2024-04-06
 title: Mao Feng Red
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-04-06-mao-feng-red-1.jpeg
 ---
 

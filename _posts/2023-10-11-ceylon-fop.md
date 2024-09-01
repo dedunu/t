@@ -2,7 +2,7 @@
 date: 2023-10-11
 title: Ceylon FOP Waulugalla (Silver Candy)
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 ---
 

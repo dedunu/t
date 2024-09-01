@@ -2,7 +2,7 @@
 date: 2023-09-30
 title: Twinings Earl Grey
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 ---
 

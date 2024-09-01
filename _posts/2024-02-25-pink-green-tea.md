@@ -2,7 +2,7 @@
 date: 2024-02-25
 title: Pink Green Tea
 categories:
-  - Green
+  - Lucha
 featured_image: https://tea.dedunu.info/images/tea/2024-02-25-pink-green-tea-1.jpg
 ---
 

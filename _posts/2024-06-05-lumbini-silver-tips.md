@@ -2,7 +2,7 @@
 date: 2024-06-05
 title: Lumbini Valley Silver Tips
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-06-05-lumbini-silver-tips-1.jpeg
 ---
 

@@ -2,7 +2,7 @@
 date: 2024-01-30
 title: Yunnan Gold Simao
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-01-30-yunnan-gold-simao-1.jpg
 ---
 

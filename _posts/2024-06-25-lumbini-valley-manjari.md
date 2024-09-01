@@ -2,7 +2,7 @@
 date: 2024-06-25
 title: Lumbini Valley Manjary
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-06-25-lumbini-valley-manjari-1.jpeg
 ---
 
