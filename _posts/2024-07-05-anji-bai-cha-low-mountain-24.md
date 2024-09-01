@@ -4,14 +4,6 @@ title: Anji Bai Cha low mountain 2024
 categories:
   - Green
 featured_image: https://tea.dedunu.info/images/tea/2024-07-05-anji-bai-cha-low-mountain-24-1.jpeg
-recipe:
-  servings: N/A
-  prep: N/A
-  cook: N/A
-  ingredients_markdown: |-
-    * N/A
-  directions_markdown: |-
-    1. N/A
 ---
 
 ## Original Link

@@ -4,14 +4,6 @@ title: Rohini Jethikupi Witte Darjeeling, First Pick 2024 - Hotsoup
 categories:
   - White
 featured_image: https://tea.dedunu.info/images/tea/2024-09-01-jethikupi-white-ff-1.jpeg
-recipe:
-  servings: N/A
-  prep: N/A
-  cook: N/A
-  ingredients_markdown: |-
-    * N/A
-  directions_markdown: |-
-    1. N/A
 ---
 
 ![](https://tea.dedunu.info/images/tea/2024-09-01-jethikupi-white-ff-2.jpeg)

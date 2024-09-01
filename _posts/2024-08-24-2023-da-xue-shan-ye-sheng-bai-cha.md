@@ -4,14 +4,6 @@ title: 2023 Da Xue Shan Ye Sheng Bai Cha - Yunnan Craft
 categories:
   - White
 featured_image: https://tea.dedunu.info/images/tea/2024-08-24-2023-da-xue-shan-ye-sheng-bai-cha-1.jpeg
-recipe:
-  servings: N/A
-  prep: N/A
-  cook: N/A
-  ingredients_markdown: |-
-    * N/A
-  directions_markdown: |-
-    1. N/A
 ---
 
 ![](https://tea.dedunu.info/images/tea/2024-08-24-2023-da-xue-shan-ye-sheng-bai-cha-2.jpeg)

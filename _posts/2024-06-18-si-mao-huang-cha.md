@@ -4,14 +4,6 @@ title: Si Mao Huang Cha
 categories:
   - Yellow
 featured_image: https://tea.dedunu.info/images/tea/2024-06-18-si-mao-huang-cha-1.jpeg
-recipe:
-  servings: N/A
-  prep: N/A
-  cook: N/A
-  ingredients_markdown: |-
-    * N/A
-  directions_markdown: |-
-    1. N/A
 ---
 
 ## Original Link
