@@ -2,7 +2,7 @@
 date: 2024-06-07
 title: Ruby GABA Oolong
 categories:
-  - Oolongcha
+  - Wulongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-06-07-ruby-gaba-oolong-1.jpeg
 ---
 

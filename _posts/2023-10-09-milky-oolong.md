@@ -2,7 +2,7 @@
 date: 2023-10-09
 title: Milky oolong, organic
 categories:
-  - Oolongcha
+  - Wulongcha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 ---
 

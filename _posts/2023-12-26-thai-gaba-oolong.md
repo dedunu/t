@@ -2,7 +2,7 @@
 date: 2023-12-26
 title: Thai Gaba Oolong
 categories:
-  - Oolongcha
+  - Wulongcha
 featured_image: https://tea.dedunu.info/images/tea/2023-12-26-thai-gaba-oolong-1.PNG
 ---
 

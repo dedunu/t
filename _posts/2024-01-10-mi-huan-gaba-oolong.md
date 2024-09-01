@@ -2,7 +2,7 @@
 date: 2024-01-10
 title: Mi Huan Gaba Oolong
 categories:
-  - Oolongcha
+  - Wulongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-01-10-mi-huan-gaba-oolong-1.PNG
 ---
 

@@ -2,7 +2,7 @@
 date: 2024-04-09
 title: Gabaron Oolong
 categories:
-  - Oolongcha
+  - Wulongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-04-09-gabaron-oolong-1.jpeg
 ---
 

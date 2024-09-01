@@ -2,7 +2,7 @@
 date: 2024-01-09
 title: Lishiwei Milan xiang (Honey Orchid)
 categories:
-  - Oolongcha
+  - Wulongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-01-09-lishiwei-milan-xiang-1.PNG
 ---
 
