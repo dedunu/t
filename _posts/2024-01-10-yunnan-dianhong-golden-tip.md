@@ -6,18 +6,12 @@ categories:
 featured_image: https://tea.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-1.PNG
 ---
 
-## Original Product Link
-
-[https://www.chamoods.com/products/dianhong](https://www.chamoods.com/products/dianhong)
-
-## Original Product Description
-
-Yunnan red tea, also known as Dianhong, is a ‘one bud, one leaf’ tea from Yunnan province. The colour of the tea leaves alternates between gold and brown. This Golden Tip is a special type of Dianhong in the shape of a slender curled thread, while its heavy leaf body is covered with fuzzy, golden down.
-
-After a good brewing, the tea takes on a stunning red colour and the tea soup shines bright like a diamond. It gives off a sweet floral aroma and tastes like brown sugar, honey, sweet potato and caramel. It is a bit smoky, but still smooth and mild enough to be enjoyed a couple of times a day. This Yunnan red tea can be brewed many times without losing its rich taste.
-
 ![](https://tea.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-2.PNG)
 
 ![](https://tea.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-3.PNG)
 
 ![](https://tea.dedunu.info/images/tea/2024-01-10-yunnan-dianhong-golden-tip-4.jpg)
+
+## Original Product Link
+
+[https://www.chamoods.com/products/dianhong](https://www.chamoods.com/products/dianhong)

@@ -11,7 +11,3 @@ featured_image: https://tea.dedunu.info/images/tea/2024-06-27-dilamah-first-ceyl
 ## Original Link
 
 <https://shop.dilmahtea.com/products/t-series-the-first-ceylon-oolong-45g-vrst>
-
-### Origin
-
-Sri Lanka

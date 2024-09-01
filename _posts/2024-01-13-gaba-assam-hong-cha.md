@@ -6,20 +6,8 @@ categories:
 featured_image: https://tea.dedunu.info/images/tea/2024-03-02-gaba-assam-hong-cha-1.jpg
 ---
 
+![](https://tea.dedunu.info/images/tea/2024-01-13-gaba-assam-hong-cha-1.jpeg)
+
 ## Original Product Link
 
 [https://moychay.nl/collections/our-red-teas/products/gaba-assam-hong-cha-thailand-winter-2022](https://moychay.nl/collections/our-red-teas/products/gaba-assam-hong-cha-thailand-winter-2022)
-
-## Original Product Description
-
-“Gaba Assam Hong Cha” is a red tea processed with anaerobic fermentation technology from Doi Mai Salong Village, Changrai District (altitude 1000m). Assamica shoots were used as raw materials.
-
-In appearance: red-brown, twisted tea shoots with thin cuttings. The aroma is intensive, fruity with a biscuit hint. The infusion is transparent, with a reddish-chestnut shade.
-
-The bouquet of ready-made tea is bright, fruity with floral, spicy, woody, biscuit and berry notes. The aroma is intense, warm, fruity-floral. The taste is full-bodied and juicy, a bit tart, spicy, sweetish, with berry sourness and refreshing finish.
-
-Steep the tea in a hot water (95°C) in a gaiwan or a teapot made of porous clay. The proportion is 5-6 g per 100 ml. The time of the first steeping is 10 seconds. Then do short steeps (2-3 seconds) increasing steeping time for each subsequent step, if necessary. You can steep the tea up to 9 times.
-
-"Gaba Assam Hong Cha" is a great choice for an emotional reboot – rich, vivid and very fragrant.
-
-![](https://tea.dedunu.info/images/tea/2024-01-13-gaba-assam-hong-cha-1.jpeg)
