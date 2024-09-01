@@ -2,7 +2,7 @@
 date: 2024-01-07
 title: Gongfu Gong Ting 2019
 categories:
-  - Pu-erh
+  - Heicha
 featured_image: https://tea.dedunu.info/images/tea/2024-01-07-gongfu-gong-ting-1.png
 ---
 

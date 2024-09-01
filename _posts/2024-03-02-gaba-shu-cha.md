@@ -2,7 +2,7 @@
 date: 2024-03-02
 title: Gaba Shu Cha 
 categories:
-  - Pu-erh
+  - Heicha
 featured_image: https://tea.dedunu.info/images/tea/2024-03-02-gaba-shu-cha-1.jpg
 ---
 

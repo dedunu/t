@@ -2,7 +2,7 @@
 date: 2024-06-13
 title: Vintage Lotus - Paper and Tea
 categories:
-  - Pu-erh
+  - Heicha
 featured_image: https://tea.dedunu.info/images/tea/2024-06-13-vintage-lotus-1.jpeg
 ---
 
