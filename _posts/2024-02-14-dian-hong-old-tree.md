@@ -2,7 +2,7 @@
 date: 2024-02-14
 title: Dian Hong Old Tree
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-02-14-dian-hong-old-tree-1.jpg
 ---
 

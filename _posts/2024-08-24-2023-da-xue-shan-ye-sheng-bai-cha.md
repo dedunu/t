@@ -2,7 +2,7 @@
 date: 2024-08-24
 title: 2023 Da Xue Shan Ye Sheng Bai Cha - Yunnan Craft
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-08-24-2023-da-xue-shan-ye-sheng-bai-cha-1.jpeg
 ---
 

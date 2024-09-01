@@ -2,7 +2,7 @@
 date: 2024-02-13
 title: Dian Hong Honey Cone
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-02-13-dian-hong-honey-cone-1.jpg
 ---
 

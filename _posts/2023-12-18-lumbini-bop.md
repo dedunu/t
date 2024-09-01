@@ -2,7 +2,7 @@
 date: 2023-12-18
 title: Lumbini Pure Black BOP
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2023-12-18-lumbini-bop-1.PNG
 ---
 

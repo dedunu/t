@@ -2,7 +2,7 @@
 date: 2024-08-08
 title: White Peony - Unravel Tea
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-08-08-white-peony-1.jpeg
 ---
 

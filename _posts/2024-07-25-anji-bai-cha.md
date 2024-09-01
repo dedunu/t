@@ -2,7 +2,7 @@
 date: 2024-07-25
 title: Anji Bai Cha Low Mountain 2023 - Thee van Sander
 categories:
-  - Green
+  - Lucha
 featured_image: https://tea.dedunu.info/images/tea/2024-07-25-anji-bai-cha-1.jpeg
 ---
 

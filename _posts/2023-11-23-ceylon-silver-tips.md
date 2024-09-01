@@ -2,7 +2,7 @@
 date: 2023-11-23
 title: St. Claire Ceylon Silver Tips
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2023-11-23-ceylon-silver-tips-1.jpeg
 ---
 

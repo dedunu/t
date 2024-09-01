@@ -2,7 +2,7 @@
 date: 2024-03-11
 title: Ceylon Indulgashinna Blink Bonnie
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-03-11-blink-bonnie-1.jpg
 ---
 

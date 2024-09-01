@@ -2,7 +2,7 @@
 date: 2024-08-30
 title: Rou Gui Hong Cha - Yunnan Craft
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-08-30-rou-gui-hong-1.jpeg
 ---
 

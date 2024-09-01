@@ -2,7 +2,7 @@
 date: 2024-08-01
 title: 2024 Dian Hong - Da Jin Zhen - Yunnan Craft
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-08-07-da-jin-zhen-1.jpeg
 ---
 

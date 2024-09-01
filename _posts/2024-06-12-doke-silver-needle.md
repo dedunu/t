@@ -2,7 +2,7 @@
 date: 2024-06-12
 title: Doke Silver Needle 2023
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-06-12-doke-silver-needle-1.jpeg
 ---
 

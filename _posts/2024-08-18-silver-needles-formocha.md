@@ -2,7 +2,7 @@
 date: 2024-08-18
 title: Silver Needles - Formocha
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-08-18-silver-needles-formocha-1.jpeg
 ---
 

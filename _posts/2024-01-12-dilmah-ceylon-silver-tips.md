@@ -2,7 +2,7 @@
 date: 2024-01-12
 title: Dilmah Ceylon Silver Tips 
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-1.jpg
 ---
 

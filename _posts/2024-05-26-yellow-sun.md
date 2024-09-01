@@ -2,7 +2,7 @@
 date: 2024-05-26
 title: Yellow Sun
 categories:
-  - Yellow
+  - Huangcha
 featured_image: https://tea.dedunu.info/images/tea/2024-05-26-yellow-sun-1.jpeg
 ---
 

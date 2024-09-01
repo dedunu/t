@@ -2,7 +2,7 @@
 date: 2024-05-23
 title: Jin Jun Mei Golden Eyebrow 2022
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-05-23-jin-jun-mei-1.jpeg
 ---
 

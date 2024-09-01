@@ -2,7 +2,7 @@
 date: 2024-07-14
 title: Silver Needles - Theemas
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-07-14-silver-needles-theemas-1.jpeg
 ---
 

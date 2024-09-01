@@ -2,7 +2,7 @@
 date: 2024-01-21
 title: Ebony Spring Silver Rings
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-01-24-silver-rings-1.jpg
 ---
 

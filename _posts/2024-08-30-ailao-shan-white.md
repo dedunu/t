@@ -2,7 +2,7 @@
 date: 2024-08-30
 title: 2021 Ailao Shan White - Yunnan Craft
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-08-30-ailao-shan-white-1.jpeg
 ---
 

@@ -2,7 +2,7 @@
 date: 2023-11-24
 title: St. Claire Ceylon Golden Tips
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 ---
 

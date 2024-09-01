@@ -2,7 +2,7 @@
 date: 2023-11-12
 title: Golden Needles Dian Hong Yunnan
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2023-11-12-golden-needles-dian-hong-yunnan-1.PNG
 ---
 

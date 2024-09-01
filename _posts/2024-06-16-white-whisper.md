@@ -2,7 +2,7 @@
 date: 2024-06-16
 title: White Whisper Silver Needle white tea
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-06-16-white-whisper-1.jpeg
 ---
 

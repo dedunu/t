@@ -2,7 +2,7 @@
 date: 2024-05-13
 title: Takachiho Black Benifuuki
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-05-13-takachiho-black-benifuuki-1.jpeg
 ---
 

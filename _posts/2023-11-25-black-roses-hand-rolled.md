@@ -2,7 +2,7 @@
 date: 2023-11-25
 title: St. Claire Black Roses Hand Rolled Tea
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 ---
 

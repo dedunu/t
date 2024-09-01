@@ -2,7 +2,7 @@
 date: 2023-10-05
 title: Nepal White
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 ---
 

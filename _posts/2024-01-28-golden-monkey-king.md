@@ -2,7 +2,7 @@
 date: 2024-01-28
 title: Golden Monkey King
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-01-28-golden-monkey-king-1.jpg
 ---
 

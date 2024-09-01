@@ -2,7 +2,7 @@
 date: 2024-07-17
 title: Organic Snow Dragon 
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-07-17-organic-snow-dragon-1.jpeg
 ---
 

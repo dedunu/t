@@ -2,7 +2,7 @@
 date: 2024-07-20
 title: 2024 Ailao Shan Bai Hao Yin Zhen - Yunnan Craft
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-07-20-zi-ya-ya-bao-1.jpeg
 ---
 

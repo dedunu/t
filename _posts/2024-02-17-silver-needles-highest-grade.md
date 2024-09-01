@@ -2,7 +2,7 @@
 date: 2024-02-17
 title: Silver Needle highest grade
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-02-17-silver-needles-highest-grade-1.jpg
 ---
 

@@ -2,7 +2,7 @@
 date: 2024-02-09
 title: Satemwa Zombie Pearls
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-02-09-zombie-pearls-1.jpg
 ---
 

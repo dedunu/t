@@ -2,7 +2,7 @@
 date: 2024-06-27
 title: Lumbini Valley Silver Feathers
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-06-27-lumbini-valley-silver-feathers-1.jpeg
 ---
 

@@ -2,7 +2,7 @@
 date: 2024-07-10
 title: Japan Tamaryokucha Mikazuki Organic Tea
 categories:
-  - Green
+  - Lucha
 featured_image: https://tea.dedunu.info/images/tea/2024-07-10-tamaryokucha-mikazuki-1.jpeg
 ---
 

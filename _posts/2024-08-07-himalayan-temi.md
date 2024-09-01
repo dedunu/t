@@ -2,7 +2,7 @@
 date: 2024-08-07
 title: Himalayan Temi - Unravel Tea
 categories:
-  - Black
+  - Hongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-08-07-himalayan-temi-1.jpeg
 ---
 

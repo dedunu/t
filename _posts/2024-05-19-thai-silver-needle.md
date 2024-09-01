@@ -2,7 +2,7 @@
 date: 2024-05-19
 title: Thai Silver Needle Bio
 categories:
-  - White
+  - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-05-19-thai-silver-needle-1.jpeg
 ---
 
