@@ -6,10 +6,6 @@ categories:
 featured_image: https://tea.dedunu.info/images/tea/2024-07-05-anji-bai-cha-low-mountain-24-1.jpeg
 ---
 
-## Original Link
-
-<https://www.theevansander.nl/webwinkel/china/china-specialty/anji-bai-cha-low-mountain/>
-
 ![](https://tea.dedunu.info/images/tea/2024-07-05-anji-bai-cha-low-mountain-24-2.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-07-05-anji-bai-cha-low-mountain-24-3.jpeg)
@@ -19,3 +15,7 @@ featured_image: https://tea.dedunu.info/images/tea/2024-07-05-anji-bai-cha-low-m
 ![](https://tea.dedunu.info/images/tea/2024-07-05-anji-bai-cha-low-mountain-24-5.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-07-05-anji-bai-cha-low-mountain-24-6.jpeg)
+
+## Original Link
+
+<https://www.theevansander.nl/webwinkel/china/china-specialty/anji-bai-cha-low-mountain/>
