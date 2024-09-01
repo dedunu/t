@@ -2,7 +2,7 @@
 date: 2024-05-28
 title: Jin Xuan (Dong Ding style)
 categories:
-  - Oolong
+  - Oolongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-05-28-jin-xuan-dong-ding-1.jpeg
 ---
 

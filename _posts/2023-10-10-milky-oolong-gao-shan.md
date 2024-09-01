@@ -2,7 +2,7 @@
 date: 2023-10-10
 title: Milky oolong Gao Shan
 categories:
-  - Oolong
+  - Oolongcha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg
 ---
 

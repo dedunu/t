@@ -2,7 +2,7 @@
 date: 2024-06-17
 title: Four Seasons Oolong
 categories:
-  - Oolong
+  - Oolongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-06-17-four-seasons-1.jpeg
 ---
 

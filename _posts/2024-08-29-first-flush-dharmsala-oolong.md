@@ -2,7 +2,7 @@
 date: 2024-08-29
 title: First Flush Dharmsala Handmade Indian Oolong Tea - Hotsoup
 categories:
-  - Oolong
+  - Oolongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-08-29-first-flush-dharmsala-oolong-1.jpeg
 ---
 
