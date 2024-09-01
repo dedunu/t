@@ -4,14 +4,6 @@ title: Da Hong Pao High Grade
 categories:
   - Oolong
 featured_image: https://tea.dedunu.info/images/tea/2024-05-29-da-hong-pao-1.jpeg
-recipe:
-  servings: N/A
-  prep: N/A
-  cook: N/A
-  ingredients_markdown: |-
-    * N/A
-  directions_markdown: |-
-    1. N/A
 ---
 
 ## Original Link

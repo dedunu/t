@@ -6,10 +6,6 @@ categories:
 featured_image: https://tea.dedunu.info/images/tea/2024-07-17-organic-snow-dragon-1.jpeg
 ---
 
-## Original Link
-
-<https://www.theartoftea.nl/tamaryokucha-mikazuki.html>
-
 ![](https://tea.dedunu.info/images/tea/2024-07-17-organic-snow-dragon-2.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-07-17-organic-snow-dragon-3.jpeg)
@@ -19,3 +15,7 @@ featured_image: https://tea.dedunu.info/images/tea/2024-07-17-organic-snow-drago
 ![](https://tea.dedunu.info/images/tea/2024-07-17-organic-snow-dragon-5.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-07-17-organic-snow-dragon-6.jpeg)
+
+## Original Link
+
+<https://www.theartoftea.nl/tamaryokucha-mikazuki.html>

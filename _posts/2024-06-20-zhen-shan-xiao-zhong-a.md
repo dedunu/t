@@ -6,11 +6,10 @@ categories:
 featured_image: https://tea.dedunu.info/images/tea/2024-06-20-zhen-shan-xiao-zhong-a-1.jpeg
 ---
 
-## Original Link
-
-<https://www.hotsoup.nl/en/zheng-shan-xiao-zhong-hong-cha-a-ongerookte-lapsang-souchong.html>
-
-
 ![](https://tea.dedunu.info/images/tea/2024-06-20-zhen-shan-xiao-zhong-a-2.jpeg)
 
 ![](https://tea.dedunu.info/images/tea/2024-06-20-zhen-shan-xiao-zhong-a-3.jpeg)
+
+## Original Link
+
+<https://www.hotsoup.nl/en/zheng-shan-xiao-zhong-hong-cha-a-ongerookte-lapsang-souchong.html>
