@@ -2,7 +2,7 @@
 date: 2024-05-10
 title: Tie Guan Yin
 categories:
-  - Oolongcha
+  - Wulongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-05-10-tie-guan-yin-1.jpeg
 ---
 

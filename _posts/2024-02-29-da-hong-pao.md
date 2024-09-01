@@ -2,7 +2,7 @@
 date: 2024-02-29
 title: Da Hong Pao
 categories:
-  - Oolongcha
+  - Wulongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-02-29-da-hong-pao-1.jpg
 ---
 

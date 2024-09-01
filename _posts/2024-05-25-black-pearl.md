@@ -2,7 +2,7 @@
 date: 2024-05-25
 title: Black Pearl
 categories:
-  - Oolongcha
+  - Wulongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-05-25-black-pearl-1.jpeg
 ---
 

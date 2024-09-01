@@ -2,7 +2,7 @@
 date: 2024-06-21
 title: Organic Tie Guan Yin Oolong Tea
 categories:
-  - Oolongcha
+  - Wulongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-06-21-tie-guan-yin-1.jpeg
 ---
 

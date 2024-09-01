@@ -2,7 +2,7 @@
 date: 2024-04-14
 title: Da Hong Pao Guo Xiang Wuyi Oolong
 categories:
-  - Oolongcha
+  - Wulongcha
 featured_image: https://tea.dedunu.info/images/tea/2024-04-14-da-hong-pao-guo-xiang-1.jpeg
 ---
 
