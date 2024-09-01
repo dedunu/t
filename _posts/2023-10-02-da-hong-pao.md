@@ -1,6 +1,6 @@
 ---
 date: 2023-10-02
-title: Da Hong Pao
+title: Da Hong Pao - Chado
 categories:
   - Wulongcha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg

@@ -1,6 +1,6 @@
 ---
 date: 2024-07-10
-title: Bi Luo Chun Taiwan 2024
+title: Bi Luo Chun Taiwan 2024 - Thee van Sander
 categories:
   - Lucha
 featured_image: https://tea.dedunu.info/images/tea/2024-07-10-bi-luo-chun-high-grade-2024-1.jpeg

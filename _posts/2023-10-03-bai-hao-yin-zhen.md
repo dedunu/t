@@ -1,6 +1,6 @@
 ---
 date: 2023-10-03
-title: Bai Hao Yin Zhen 
+title: Bai Hao Yin Zhen - Chado
 categories:
   - Baicha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg

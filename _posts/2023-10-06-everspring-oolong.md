@@ -1,6 +1,6 @@
 ---
 date: 2023-10-06
-title: Everspring oolong
+title: Everspring oolong - Chado
 categories:
   - Wulongcha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg

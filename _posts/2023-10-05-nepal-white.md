@@ -1,6 +1,6 @@
 ---
 date: 2023-10-05
-title: Nepal White
+title: Nepal White - Chado
 categories:
   - Baicha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg

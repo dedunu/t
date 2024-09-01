@@ -1,6 +1,6 @@
 ---
 date: 2023-10-07
-title: Golden Needles
+title: Golden Needles - Chado
 categories:
   - Hongcha
 featured_image: https://tea.dedunu.info/images/placeholder.jpg

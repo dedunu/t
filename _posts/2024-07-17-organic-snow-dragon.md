@@ -1,6 +1,6 @@
 ---
 date: 2024-07-17
-title: Organic Snow Dragon 
+title: Organic Snow Dragon - Thee van Sander
 categories:
   - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-07-17-organic-snow-dragon-1.jpeg
@@ -18,4 +18,4 @@ featured_image: https://tea.dedunu.info/images/tea/2024-07-17-organic-snow-drago
 
 ## Original Link
 
-<https://www.theartoftea.nl/tamaryokucha-mikazuki.html>
+<https://www.theevansander.nl/webwinkel/china/china-specialty/snow-dragon/>
