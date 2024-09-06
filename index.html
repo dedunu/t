@@ -1,10 +1,11 @@
 ---
 title: Home
 ---
-<h2>Cards</h2>
+
+<h2>Tea Types</h2>
 
 <ul>
-	<li><a href="{{ site.baseurl }}cards/all">All</a></li>
+	<li><a href="{{ site.baseurl }}main">Index</a></li>
 	<li><a href="{{ site.baseurl }}cards/baicha">Baicha</a></li>
 	<li><a href="{{ site.baseurl }}cards/hongcha">Hongcha</a></li>
 	<li><a href="{{ site.baseurl }}cards/wulongcha">Wulongcha</a></li>
@@ -17,21 +18,6 @@ title: Home
 
 <ul>
 	<li>
-		<a href="{{ site.baseurl }}cards">Cards</a>
-
-	</li>
-	<li>
 		<a href="{{ site.baseurl }}shops">Shops</a>
 	</li>
 </ul>
-
-{% for category in site.categories %}
-	<h2>{{ category[0] }}</h2>
-	<ul>
-		{% for recipe in category[1] %}
-			<li>
-				<a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a>
-			</li>
-		{% endfor %}
-	</ul>
-{% endfor %}

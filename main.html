@@ -1,0 +1,14 @@
+---
+title: Index
+---
+
+{% for category in site.categories %}
+	<h2>{{ category[0] }}</h2>
+	<ul>
+		{% for recipe in category[1] %}
+			<li>
+				<a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a>
+			</li>
+		{% endfor %}
+	</ul>
+{% endfor %}
