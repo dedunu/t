@@ -1,6 +1,6 @@
 ---
 date: 2024-09-01
-title: Rohini Jethikupi Witte Darjeeling, First Pick 2024 - Hotsoup
+title: Rohini Jethikupi White Darjeeling, First Pick 2024 - Hotsoup
 categories:
   - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-09-01-jethikupi-white-ff-1.jpeg

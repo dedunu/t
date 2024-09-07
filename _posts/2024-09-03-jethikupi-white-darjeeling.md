@@ -1,6 +1,6 @@
 ---
 date: 2024-09-03
-title: Rohini Jethikupi Early FF witte Darjeeling 2023 - Hotsoup
+title: Rohini Jethikupi Early Firsh Flush White Darjeeling 2023 - Hotsoup
 categories:
   - Baicha
 featured_image: https://tea.dedunu.info/images/tea/2024-09-03-jethikupi-white-darjeeling-1.jpeg
