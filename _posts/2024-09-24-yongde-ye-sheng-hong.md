@@ -10,4 +10,4 @@ featured_image: https://tea.dedunu.info/images/tea/2024-09-24-yongde-ye-sheng-ho
 
 ## Original Link
 
-<https://www.yunnancraft.com/en/wild-varietal/2024-dehong-ye-sheng-hong>
+<https://www.yunnancraft.com/en/wild-varietal/2024-yongde-ye-sheng-hong>
