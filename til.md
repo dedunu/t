@@ -10,7 +10,7 @@ title: Teas I like
 - Hotsoup Doke Silver Needle 2023 - <https://tea.dedunu.info/baicha/2024/06/12/doke-silver-needle/>
 - Formocha Silver Needles - <https://tea.dedunu.info/baicha/2024/08/18/silver-needles-formocha/>
 
-# Huangcha
+## Huangcha
 
 - Hotsoup Si Mao Huang Cha - <https://tea.dedunu.info/huangcha/2024/06/18/si-mao-huang-cha/>
 
