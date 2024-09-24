@@ -3,8 +3,10 @@ date: 2024-01-12
 title: Dilmah Ceylon Silver Tips 
 categories:
   - Baicha
-featured_image: https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-1.jpg
+featured_image: https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-5.jpeg
 ---
+
+![silver tips](https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-1.jpg)
 
 ![silver tips](https://tea.dedunu.info/images/tea/2024-01-12-dilmah-ceylon-silver-tips-2.PNG)
 
