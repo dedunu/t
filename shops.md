@@ -20,6 +20,7 @@ title: Shops
 - <https://unraveltea.com/>
 - <https://www.yunnancraft.com/>
 - <https://www.formocha.nl/>
+- <https://anmo-art-cha.com/>
 
 ## Short list
 
@@ -29,7 +30,6 @@ title: Shops
 - <https://www.laenggasstee.ch/>
 - <https://teamania.ch/>
 - <https://onerivertea.com/>
-- <https://anmo-art-cha.com/>
 
 ## Shops
 
