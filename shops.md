@@ -21,6 +21,7 @@ title: Shops
 - <https://www.yunnancraft.com/>
 - <https://www.formocha.nl/>
 - <https://anmo-art-cha.com/>
+- <https://www.mariagefreres.com/>
 
 ## Short list
 
